@@ -1,63 +1,222 @@
 - members:
-  - first_name: Olivier
-    institution: Google Research, France
-    last_name: Pietquin
+  - first_name: Roberto
+    institution: Sapienza University of Rome
+    last_name: Navigli
   role: General Chair
 - members:
-  - first_name: Smaranda
-    institution: Columbia University, USA
-    last_name: Muresan
-  - first_name: Vivian
-    institution: National Taiwan University, Taiwan
-    last_name: Chen
-  role: Program Chairs
+  - first_name: Wanxiang
+    institution: Harbin Institute of Technology
+    last_name: Che
+  - first_name: Joyce
+    institution: Makerere University
+    last_name: Nabende
+  - first_name: Ekaterina
+    institution: University of Amsterdam
+    last_name: Shutova
+  - first_name: Mohammad Taher
+    institution: Cardiff University / Tehran Institute for Advanced Studies
+    last_name: Pilehvar
+  role: Program Chair
 - members:
-  - first_name: Casey
-    institution: Boise State University, USA
-    last_name: Kennington
-  role: Local / Virtual Chair
+  - first_name: Benjamin
+    institution: University of Vienna
+    last_name: Roth
+  - first_name: Dagmar
+    institution: University of Vienna
+    last_name: Gromann
+  role: Local Chair
 - members:
+  - first_name: Terra
+    institution: University of Vienna
+    last_name: Blevins
+  - first_name: Christophe
+    institution: Université Jean Monnet
+    last_name: Gravier
+  role: Workshop Chair
+- members:
+  - first_name: Yuki
+    institution: Tokyo Institute of Technology
+    last_name: Arase
   - first_name: David
-    institution: Apple Inc., United Kingdom
-    last_name: Vandyke
-  role: Sponsorship Chair
+    institution: University of Michigan
+    last_name: Jurgens
+  - first_name: Fei
+    institution: University of Washington
+    last_name: Xia
+  role: Tutorial Chair
 - members:
-  - first_name: Nina
-    institution: University of Hull, United Kingdom
-    last_name: Dethlefs
-  role: Mentoring Chair
+  - first_name: Pushkar
+    institution: Google DeepMind / Cambridge
+    last_name: Mishra
+  - first_name: Smaranda
+    institution: Barnard College, Columbia University
+    last_name: Muresan
+  - first_name: Tao
+    institution: The University of Hong Kong
+    last_name: Yu
+  role: Demonstration Chair
 - members:
-  - first_name: Stefan
-    institution: Mercedes-Benz AG, Germany
-    last_name: Ultes
+  - first_name: Zhu
+    institution: Tsinghua University
+    last_name: Liu
+  - first_name: Mingyang
+    institution: LMU
+    last_name: Wang
+  - first_name: Jin
+    institution: Brandeis University
+    last_name: Zhao
+  role: Student Research Workshop Chair
+- members:
+  - first_name: Lea
+    institution: University of Melbourne
+    last_name: Frermann
+  - first_name: Daniel
+    institution: University of Copenhagen
+    last_name: Hershcovich
+  - first_name: Tristan
+    institution: University of Manitoba
+    last_name: Miller
+  role: Student Research Workshop Chair: Faculty Advisor
+- members:
+  - first_name: Pierpaolo
+    institution: University of Bari
+    last_name: Basile
+  - first_name: Libo
+    institution: Central South University
+    last_name: Qin
+  - first_name: Zhenghao
+    institution: Northeastern University
+    last_name: Liu
   role: Publication Chair
 - members:
-  - first_name: Koji
-    institution: Kyoto University, Japan
-    last_name: Inoue
-  - first_name: Erik
-    institution: KTH Royal Institute of Technology, Sweden
-    last_name: Ekstedt
-  role: Video Presentation Chair
+  - first_name: Els
+    institution: Ghent University
+    last_name: Lefever
+  - first_name: Qiongkai
+    institution: Macquarie University
+    last_name: Xu
+  role: Handbook Chair
 - members:
-  - first_name: 'President:'
-    institution: KTH Royal Institute of Technology, Sweden
-    last_name: Skantze
-    middle_name: Gabriel
-  - first_name: Vice
-    institution: Honda Research Institute, Japan
-    last_name: Nakano
-    middle_name: 'President: Mikio'
-  - first_name: 'Secretary:'
-    institution: Educational Testing Service (ETS) Research, USA
-    last_name: Ramanarayanan
-    middle_name: Vikram
-  - first_name: 'Treasurer:'
-    institution: Interactions, USA
-    last_name: Selfridge
-    middle_name: Ethan
-  - first_name: President
-    institution: Apple, USA
-    last_name: Williams
-    middle_name: 'Emeritus: Jason'
-  role: SIGdial Officers
+  - first_name: Raffaella
+    institution: University of Trento
+    last_name: Bernardi
+  - first_name: Thomas
+    institution: Meta AI
+    last_name: Scialom
+  role: Sponsorship Chair
+- members:
+  - first_name: Senja
+    institution: Jožef Stefan Institute
+    last_name: Pollak
+  - first_name: Maria
+    institution: MIT
+    last_name: Ryskina
+  - first_name: Shane
+    institution: University of Michigan
+    last_name: Storks
+  - first_name: Hwaran
+    institution: NAVER
+    last_name: Lee
+  role: Diversity and Inclusion Chair
+- members:
+  - first_name: Anette
+    institution: Heidelberg University
+    last_name: Frank
+  - first_name: Shruti
+    institution: Google DeepMind
+    last_name: Rijhwani
+  - first_name: Horacio
+    institution: Pompeu Fabra University
+    last_name: Saggion
+  role: Publicity and Social Media Chair
+- members:
+  - first_name: Xudong
+    institution: LibrAI / MBZUAI
+    last_name: Han
+  - first_name: Alessandro
+    institution: University of Milano-Bicocca
+    last_name: Raganato
+  role: Website and Conference App Chair
+- members:
+  - first_name: Karën
+    institution: Université de Lorraine / LORIA
+    last_name: Fort
+  - first_name: Bjorn
+    institution: University of Edinburgh
+    last_name: Ross
+  role: Ethics Chair
+- members:
+  - first_name: Pedro Henrique
+    institution: University of Vienna
+    last_name: Luz de Araujo
+  - first_name: Eleonora
+    institution: University of Bologna
+    last_name: Mancini
+  role: Student Volunteer Chair
+- members:
+  - first_name: Niket
+    institution: Allen AI
+    last_name: Tandon
+  - first_name: Lizhen
+    institution: Monash University
+    last_name: Qu
+  role: Technical Open Review Chair
+- members:
+  - first_name: Manling
+    institution: Northwestern University
+    last_name: Li
+  - first_name: Yang
+    institution: Microsoft
+    last_name: Liu
+  - first_name: Avi
+    institution: IBM Research
+    last_name: Sil
+  role: Virtual Infrastructure Chair
+- members:
+  - first_name: Sara
+    institution: FBK
+    last_name: Tonelli
+  - first_name: Yiquan
+    institution: Zhejiang University
+    last_name: Wu
+  role: Internal Communication Chair
+- members:
+  - first_name: Yunyao
+    institution: Adobe
+    last_name: Li
+  - first_name: Georg
+    institution: DFKI
+    last_name: Rehm
+  role: Industry Track Chair
+- members:
+  - first_name: Rada
+    institution: University of Michighan
+    last_name: Mihalcea
+  - first_name: Roi
+    institution: Technion - Israel Institute of Technology
+    last_name: Reichart
+  role: Best Paper Committee Chair
+- members:
+  - first_name: Rexhina
+    institution: Amazon AGI
+    last_name: Blloshmi
+  - first_name: Eleni
+    institution: TIB
+    last_name: Ilkou
+  role: Visa Chair
+- members:
+  - first_name: Chenghua
+    institution: University of Manchester
+    last_name: Lin
+  role: Documentation Chair
+- members:
+  - first_name: Jun
+    institution: Tohoku University
+    last_name: Suzuki
+  - first_name: Jing
+    institution: Australian National University
+    last_name: Jiang
+  - first_name: Xiaodan
+    institution: Queen's University
+    last_name: Zhu
+  role: ARR Editors in Chief
