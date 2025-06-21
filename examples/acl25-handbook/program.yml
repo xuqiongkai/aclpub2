@@ -2,18 +2,18 @@
   start_time: 2025-07-28 08:00:00
   title: Registration
 - title: Session 1
-  start_time: 2025-07-28 09:00:00
   end_time: 2025-07-28 10:30:00
   subsessions:
-     - end_time: 2025-07-28 09:30:00
+    - end_time: 2025-07-28 09:30:00
       start_time: 2025-07-28 09:00:00
       title: Opening Session
       location: Level 2 Hall A - C
-     - end_time: 2025-07-28 10:30:00
+    - end_time: 2025-07-28 10:30:00
       start_time: 2025-07-28 09:30:00
       title: Keynote: Luke Zettlemoyer
       chair: TBA
       location: Level 2 Hall A - C
+  start_time: 2025-07-28 09:00:00
 - end_time: 2025-07-28 11:00:00
   start_time: 2025-07-28 10:30:00
   title: Break
@@ -28,7 +28,6 @@
   start_time: 2025-07-28 12:30:00
   title: Lunch
 - title: Session 3 - In Person Orals
-  start_time: 2025-07-28 14:00:00
   end_time: 2025-07-28 15:30:00
   subsessions:
     - end_time: 2025-07-28 15:30:00
@@ -91,6 +90,7 @@
       title: IND - TBA
       chair: TBA
       location: Level 1 Hall L.1 - L.3
+  start_time: 2025-07-28 14:00:00
 - end_time: 2025-07-28 15:30:00
   start_time: 2025-07-28 14:00:00
   title: PM Coffee Break
@@ -273,7 +273,6 @@
       chair: John Doe
       location: Main Room
 - title: Sessions 1
-  start_time: 2020-07-03 05:30:00
   end_time: 2020-07-03 07:10:00
   subsessions:
     - end_time: 2020-07-03 06:05:00
