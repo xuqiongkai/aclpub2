@@ -1,139 +1,117 @@
-- end_time: 2020-07-01 07:45:00
-  start_time: 2020-07-01 07:30:00
-  title: Opening Remarks
-- end_time: 2020-07-01 09:30:00
-  start_time: 2020-07-01 09:00:00
-  title: Break
+- end_time: 2025-07-28 18:30:00
+  start_time: 2025-07-28 08:00:00
+  title: Registration
 - title: Session 1
-  start_time: 2020-07-01 09:30:00
-  end_time: 2020-07-01 11:30:00
+  start_time: 2025-07-28 09:00:00
+  end_time: 2025-07-28 10:30:00
   subsessions:
-    - end_time: 2020-07-01 10:20:00
-      papers:
-        - end_time: 2020-07-01 09:40:00
-          id: 22
-          start_time: 2020-07-01 09:30:00
-        - end_time: 2020-07-01 09:50:00
-          id: 76
-          start_time: 2020-07-01 09:40:00
-        - end_time: 2020-07-01 10:10:00
-          id: 98
-          start_time: 2020-07-01 10:00:00
-        - end_time: 2020-07-01 10:20:00
-          id: 103
-          start_time: 2020-07-01 10:10:00
-      start_time: 2020-07-01 09:30:00
-      title: Generation + Task-Oriented Dialogues (1)
-      chair: John Doe
-      location: Main Room
-    - end_time: 2020-07-01 10:45:00
-      start_time: 2020-07-01 10:20:00
-      title: Generation + Task-Oriented Dialogues (1) live QA
-      chair: John Doe
-      location: Main Room
-    - end_time: 2020-07-01 11:30:00
-      papers:
-        - end_time: 2020-07-01 10:55:00
-          id: 28
-          start_time: 2020-07-01 10:45:00
-        - end_time: 2020-07-01 11:05:00
-          id: 44
-          start_time: 2020-07-01 10:55:00
-        - end_time: 2020-07-01 11:20:00
-          id: 72
-          start_time: 2020-07-01 11:10:00
-        - end_time: 2020-07-01 11:30:00
-          id: 71
-          start_time: 2020-07-01 11:20:00
-      start_time: 2020-07-01 10:45:00
-      title: Demo (1) pre-recorded presentations + live QA
-      chair: John Doe
-      location: Main Room
-- end_time: 2020-07-01 11:50:00
-  start_time: 2020-07-01 11:30:00
+     - end_time: 2025-07-28 09:30:00
+      start_time: 2025-07-28 09:00:00
+      title: Opening Session
+      location: Level 2 Hall A - C
+     - end_time: 2025-07-28 10:30:00
+      start_time: 2025-07-28 09:30:00
+      title: Keynote: Luke Zettlemoyer
+      chair: TBA
+      location: Level 2 Hall A - C
+- end_time: 2025-07-28 11:00:00
+  start_time: 2025-07-28 10:30:00
   title: Break
-- title: Session 2
-  start_time: 2020-07-01 11:50:00
-  end_time: 2020-07-01 15:30:00
+- end_time: 2025-07-28 12:30:00
+  start_time: 2025-07-28 11:00:00
+  title: Session 2: Virtual Presentations
+- end_time: 2025-07-28 12:30:00
+  start_time: 2025-07-28 11:00:00
+  title: Session 2: In Person Posters (Main)
+  location: Level 0 Exhibit Halls X4 and X5
+- end_time: 2025-07-28 14:00:00
+  start_time: 2025-07-28 12:30:00
+  title: Lunch
+- title: Session 3 - In Person Orals
+  start_time: 2025-07-28 14:00:00
+  end_time: 2025-07-28 15:30:00
   subsessions:
-    - end_time: 2020-07-01 12:20:00
-      papers:
-        - end_time: 2020-07-01 12:00:00
-          id: 78
-          start_time: 2020-07-01 11:50:00
-        - end_time: 2020-07-01 12:10:00
-          id: 12
-          start_time: 2020-07-01 12:00:00
-        - end_time: 2020-07-01 12:20:00
-          id: 89
-          start_time: 2020-07-01 12:10:00
-      start_time: 2020-07-01 11:50:00
-      title: Knowledge Acquisition/Use and Behaviour Modeling (1)
-      chair: John Doe
-      location: Main Room
-    - end_time: 2020-07-01 12:40:00
-      start_time: 2020-07-01 12:20:00
-      title: Knowledge Acquisition/Use and Behaviour Modeling (1) live QA
-      chair: John Doe
-      location: Main Room
-    - end_time: 2020-07-01 15:30:00
-      start_time: 2020-07-01 12:40:00
-      title: Breakout Discussion Sessions
-      chair: John Doe
-      location: Main Room
-- end_time: 2020-07-01 16:00:00
-  start_time: 2020-07-01 15:30:00
-  title: Break
-- title: Session 3
-  start_time: 2020-07-01 16:00:00
-  end_time: 2020-07-01 19:15:00
-  subsessions:
-    - end_time: 2020-07-01 17:00:00
-      papers:
-        - end_time: 2020-07-01 16:15:00
-          id: 49
-          start_time: 2020-07-01 16:00:00
-        - end_time: 2020-07-01 16:30:00
-          id: 63
-          start_time: 2020-07-01 16:15:00
-        - end_time: 2020-07-01 16:45:00
-          id: 81
-          start_time: 2020-07-01 16:30:00
-        - end_time: 2020-07-01 17:00:00
-          id: 18
-          start_time: 2020-07-01 16:45:00
-      start_time: 2020-07-01 16:00:00
-      title: "Special Session: Greetings and Talks"
-      chair: John Doe
-      location: Main Room
-    - end_time: 2020-07-01 17:30:00
-      papers:
-        - end_time: 2020-07-01 17:15:00
-          id: 62
-          start_time: 2020-07-01 17:00:00
-        - end_time: 2020-07-01 17:30:00
-          id: 61
-          start_time: 2020-07-01 17:15:00
-      start_time: 2020-07-01 17:00:00
-      title: Demo (2) pre-recorded presentations + live QA
-      chair: John Doe
-      location: Main Room
-    - end_time: 2020-07-01 18:15:00
-      start_time: 2020-07-01 17:30:00
-      title: "Special Session: live QA"
-      chair: John Doe
-      location: Main Room
-    - end_time: 2020-07-01 19:15:00
-      start_time: 2020-07-01 18:15:00
-      title: "Special Session: Late-breaking"
-      chair: John Doe
-      location: Main Room
-- end_time: 2020-07-01 19:30:00
-  start_time: 2020-07-01 19:15:00
-  title: Break
-- end_time: 2020-07-01 20:15:00
-  start_time: 2020-07-01 19:30:00
-  title: Breakouts Discussion Sessions
+    - end_time: 2025-07-28 15:30:00
+      start_time: 2025-07-28 14:00:00
+      title: Machine Translation
+      chair: TBA
+      location: Level 1 1.85
+    - end_time: 2025-07-28 15:30:00
+      start_time: 2025-07-28 14:00:00
+      title: Semantics
+      chair: TBA
+      location: Level 1 1.86
+    - end_time: 2025-07-28 15:30:00
+      start_time: 2025-07-28 14:00:00
+      title: Ethics, Bias, and Fairness 1
+      chair: TBA
+      location: Level 1 M.2
+    - end_time: 2025-07-28 15:30:00
+      start_time: 2025-07-28 14:00:00
+      title: Generation
+      chair: TBA
+      location: Level 1 M.1
+    - end_time: 2025-07-28 15:30:00
+      start_time: 2025-07-28 14:00:00
+      title: Human-centered NLP
+      chair: TBA
+      location: Level 1 1.62
+    - end_time: 2025-07-28 15:30:00
+      start_time: 2025-07-28 14:00:00
+      title: Information Retrieval and Text Mining
+      chair: TBA
+      location: Level 1 N.1
+    - end_time: 2025-07-28 15:30:00
+      start_time: 2025-07-28 14:00:00
+      title: Linguistic Theories and Cognitive Modeling
+      chair: TBA
+      location: Level 1 1.62
+    - end_time: 2025-07-28 15:30:00
+      start_time: 2025-07-28 14:00:00
+      title: Multimodality and Language Grounding 1
+      chair: TBA
+      location: Level 2 Hall C
+    - end_time: 2025-07-28 15:30:00
+      start_time: 2025-07-28 14:00:00
+      title: NLP Applications 1
+      chair: TBA
+      location: Level 2 Hall B
+    - end_time: 2025-07-28 15:30:00
+      start_time: 2025-07-28 14:00:00
+      title: Resources and Evaluation 1
+      chair: TBA
+      location: Level 2 Hall A
+    - end_time: 2025-07-28 15:30:00
+      start_time: 2025-07-28 14:00:00
+      title: Theme track - Generalisation of NLP models 1
+      chair: TBA
+      location: Level 1 1.15-16
+    - end_time: 2025-07-28 15:30:00
+      start_time: 2025-07-28 14:00:00
+      title: IND - TBA
+      chair: TBA
+      location: Level 1 Hall L.1 - L.3
+- end_time: 2025-07-28 15:30:00
+  start_time: 2025-07-28 14:00:00
+  title: PM Coffee Break
+- end_time: 2025-07-28 16:30:00
+  start_time: 2025-07-28 16:00:00
+  title: Session 4 - CL Dissertation Award
+  chair: TBA
+  location: Level 2 Hall A - C
+- end_time: 2025-07-28 17:30:00
+  start_time: 2025-07-28 16:30:00
+  title: Session 4 - Panel
+  chair: Eduard Hovy
+  location: Level 2 Hall A - C
+- end_time: 2025-07-28 19:30:00
+  start_time: 2025-07-28 18:00:00
+  title: Session 5: Virtual Presentations
+  location: Underline
+- end_time: 2025-07-28 19:30:00
+  start_time: 2025-07-28 18:00:00
+  title: Session 5: In Person Posters (Findings with Reception)
+  location: Level 0 Exhibit Halls X4 & X5
 - title: Session 1
   start_time: 2020-07-02 05:00:00
   end_time: 2020-07-02 07:10:00
