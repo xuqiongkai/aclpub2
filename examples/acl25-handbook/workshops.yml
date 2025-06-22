@@ -1,15 +1,12 @@
-- date: 2020-07-01 00:00:00
+- date: 2025-07-31 00:00:00
   title: Workshop 1
-  chair: John Doe
-  location: Main Room
+  location: Level 1 1.34
   id: workshop_1
-- date: 2020-07-02 00:00:00
+- date: 2025-07-31 00:00:00
   title: Workshop 2
-  chair: John Doe
-  location: Main Room
+  location: Level 2 Hall B
   id: workshop_2
-- date: 2020-07-03 00:00:00
+- date: 2025-07-31 00:00:00
   title: Workshop 3
-  chair: John Doe
-  location: Main Room
+  location: Level 2 2.17
   id: workshop_3
