@@ -27,7 +27,7 @@
 - end_time: 2025-07-28 14:00:00
   start_time: 2025-07-28 12:30:00
   title: Lunch
-- title: Session 3 - In Person Orals
+- title: "Session 3: In Person Orals"
   start_time: 2025-07-28 14:00:00
   end_time: 2025-07-28 15:30:00
   subsessions:
@@ -83,7 +83,7 @@
       location: Level 2 Hall A
     - end_time: 2025-07-28 15:30:00
       start_time: 2025-07-28 14:00:00
-      title: Theme track - Generalisation of NLP models 1
+      title: "Theme track: Generalisation of NLP models 1"
       chair: TBA
       location: Level 1 1.15-16
     - end_time: 2025-07-28 15:30:00
@@ -96,7 +96,7 @@
   title: PM Coffee Break
 - end_time: 2025-07-28 16:30:00
   start_time: 2025-07-28 16:00:00
-  title: Session 4 - CL Dissertation Award
+  title: "Session 4: CL Dissertation Award"
   chair: TBA
   location: Level 2 Hall A - C
 - end_time: 2025-07-28 17:30:00
@@ -117,7 +117,7 @@
   title: Registration
 - end_time: 2025-07-29 10:00:00
   start_time: 2025-07-29 09:00:00
-  title: "Session 6: Keynote - Verena Rieser"
+  title: "Session 6: Keynote Verena Rieser"
   location: Level 2 Hall A - C
 - end_time: 2025-07-29 10:30:00
   start_time: 2025-07-29 10:00:00
@@ -147,273 +147,196 @@
 - end_time: 2025-07-29 14:00:00
   start_time: 2025-07-29 13:45:00
   title: Break to Reset for orals
-- title: Session 9 - In Person Orals
+- title: "Session 9: In Person Orals"
   start_time: 2025-07-29 14:00:00
   end_time: 2025-07-29 15:30:00
   subsessions:
-    - end_time: 2025-07-28 15:30:00
-      start_time: 2025-07-28 14:00:00
-      title: Machine Translation
-      chair: TBA
-      location: Level 1 1.85
-    - end_time: 2025-07-28 15:30:00
-      start_time: 2025-07-28 14:00:00
-      title: Semantics
-      chair: TBA
-      location: Level 1 1.86
-    - end_time: 2025-07-28 15:30:00
-      start_time: 2025-07-28 14:00:00
-      title: Ethics, Bias, and Fairness 1
-      chair: TBA
-      location: Level 1 M.2
-    - end_time: 2025-07-28 15:30:00
-      start_time: 2025-07-28 14:00:00
-      title: Generation
-      chair: TBA
-      location: Level 1 M.1
-    - end_time: 2025-07-28 15:30:00
-      start_time: 2025-07-28 14:00:00
-      title: Human-centered NLP
-      chair: TBA
-      location: Level 1 1.62
-    - end_time: 2025-07-28 15:30:00
-      start_time: 2025-07-28 14:00:00
-      title: Information Retrieval and Text Mining
-      chair: TBA
+    - end_time: 2025-07-29 15:30:00
+      start_time: 2025-07-29 14:00:00
+      title: Dialogue and Interactive Systems
       location: Level 1 N.1
-    - end_time: 2025-07-28 15:30:00
-      start_time: 2025-07-28 14:00:00
-      title: Linguistic Theories and Cognitive Modeling
-      chair: TBA
-      location: Level 1 1.62
-    - end_time: 2025-07-28 15:30:00
-      start_time: 2025-07-28 14:00:00
-      title: Multimodality and Language Grounding 1
-      chair: TBA
+    - end_time: 2025-07-29 15:30:00
+      start_time: 2025-07-29 14:00:00
+      title: Interpretability and Model Analysis 1
+      location: Level 1 M.2
+    - end_time: 2025-07-29 15:30:00
+      start_time: 2025-07-29 14:00:00
+      title: Language Modeling 1
       location: Level 2 Hall C
-    - end_time: 2025-07-28 15:30:00
-      start_time: 2025-07-28 14:00:00
-      title: NLP Applications 1
-      chair: TBA
+    - end_time: 2025-07-29 15:30:00
+      start_time: 2025-07-29 14:00:00
+      title: Summarization and Information Extraction
+      location: Level 1 N.2
+    - end_time: 2025-07-29 15:30:00
+      start_time: 2025-07-29 14:00:00
+      title: Efficient Methods for NLP 1
+      location: Level 1 M.1
+    - end_time: 2025-07-29 15:30:00
+      start_time: 2025-07-29 14:00:00
+      title: Resources and Evaluation 2
       location: Level 2 Hall B
-    - end_time: 2025-07-28 15:30:00
-      start_time: 2025-07-28 14:00:00
-      title: Resources and Evaluation 1
-      chair: TBA
-      location: Level 2 Hall A
-    - end_time: 2025-07-28 15:30:00
-      start_time: 2025-07-28 14:00:00
-      title: Theme track - Generalisation of NLP models 1
-      chair: TBA
+    - end_time: 2025-07-29 15:30:00
+      start_time: 2025-07-29 14:00:00
+      title: Phonology, Morphology, and Syntax
+      location: Level 1 1.86
+    - end_time: 2025-07-29 15:30:00
+      start_time: 2025-07-29 14:00:00
+      title: Sentiment, Style and Argumentation Analysis
+      location: Level 1 1.62
+    - end_time: 2025-07-29 15:30:00
+      start_time: 2025-07-29 14:00:00
+      title: Multilingualism and Cross-Lingual NLP
       location: Level 1 1.15-16
-    - end_time: 2025-07-28 15:30:00
-      start_time: 2025-07-28 14:00:00
-      title: IND - TBA
-      chair: TBA
+    - end_time: 2025-07-29 15:30:00
+      start_time: 2025-07-29 14:00:00
+      title: Speech Processing 
+      location: Level 1 1.61
+    - end_time: 2025-07-29 15:30:00
+      start_time: 2025-07-29 14:00:00
+      title: Computational Social Science and Cultural Analytics
+      location: Level 1 1.85
+    - end_time: 2025-07-29 15:30:00
+      start_time: 2025-07-29 14:00:00
+      title: BoF TBA
+      location: TBA
+- end_time: 2025-07-29 16:00:00
+  start_time: 2025-07-29 15:30:00
+  title: PM Coffee Break
+- end_time: 2025-07-29 17:30:00
+  start_time: 2025-07-29 16:00:00
+  title: "Session 10: Virtual Presentations"
+  location: Underline
+- end_time: 2025-07-29 17:30:00
+  start_time: 2025-07-29 16:00:00
+  title: "Session 10: In Person Posters (Main)"
+  location: Level 0 Exhibit Halls X4 & X5
+- end_time: 2025-07-29 17:30:00
+  start_time: 2025-07-29 16:00:00
+  title: "Session 10: In Person Posters (IND: TBA)"
+  location: Level 1 Hall N.2
+- end_time: 2025-07-29 17:30:00
+  start_time: 2025-07-29 16:00:00
+  title: "Session 10: In Person Posters (SRW: TBA)"
+  location: Level 1 Hall L.1 - L.3
+- end_time: 2025-07-29 22:00:00
+  start_time: 2025-07-29 19:00:00
+  title: Social Event
+  location: Level 2 Hall A
+- end_time: 2025-07-30 17:30:00
+  start_time: 2025-07-30 08:30:00
+  title: Registration
+- title: "Session 11: In Person Orals"
+  start_time: 2025-07-30 10:30:00
+  end_time: 2025-07-30 09:00:00
+  subsessions:
+    - end_time: 2025-07-30 10:30:00
+      start_time: 2025-07-30 09:00:00
+      title: Resources and Evaluation 3
+      location: Level 2 Hall A
+    - end_time: 2025-07-30 10:30:00
+      start_time: 2025-07-30 09:00:00
+      title: Efficient Methods for NLP 2
+      location: Level 2 Hall B
+    - end_time: 2025-07-30 10:30:00
+      start_time: 2025-07-30 09:00:00
+      title: Ethics, Bias, and Fairness 2
+      location: Level 2 Hall C
+    - end_time: 2025-07-30 10:30:00
+      start_time: 2025-07-30 09:00:00
+      title: NLP Applications 2
+      location: Level 1 M.1
+    - end_time: 2025-07-30 10:30:00
+      start_time: 2025-07-30 09:00:00
+      title: Multimodality and Language Grounding 2
+      location: Level 1 M.2
+    - end_time: 2025-07-30 10:30:00
+      start_time: 2025-07-30 09:00:00
+      title: Computational Social Science and Cultural Analytics 2
+      location: Level 1 N.1
+    - end_time: 2025-07-30 10:30:00
+      start_time: 2025-07-30 09:00:00
+      title: "Theme track: Generalisation of NLP models 2"
+      location: Level 1 N.2
+    - end_time: 2025-07-30 10:30:00
+      start_time: 2025-07-30 09:00:00
+      title: Machine Learning for NLP
+      location: Level 1 1.61
+    - end_time: 2025-07-30 10:30:00
+      start_time: 2025-07-30 09:00:00
+      title: Efficient Methods for NLP 3
+      location: Level 1 1.62
+    - end_time: 2025-07-30 10:30:00
+      start_time: 2025-07-30 09:00:00
+      title: Interpretability and Model Analysis 2
+      location: Level 1 1.85
+    - end_time: 2025-07-30 10:30:00
+      start_time: 2025-07-30 09:00:00
+      title: Question Answering 
+      location: Level 1 1.86
+    - end_time: 2025-07-30 10:30:00
+      start_time: 2025-07-30 09:00:00
+      title: Language Modeling 2
+      location: Level 1 1.15 - 1.16
+    - end_time: 2025-07-30 10:30:00
+      start_time: 2025-07-30 09:00:00
+      title: "IND: TBA"
       location: Level 1 Hall L.1 - L.3
-- title: Session 7
-  start_time: 2025-07-29 05:00:00
-  end_time: 2025-07-29 07:10:00
-  subsessions:
-    - end_time: 2025-07-29 05:35:00
-      papers:
-        - end_time: 2025-07-29 05:10:00
-          id: 17
-          start_time: 2025-07-29 05:00:00
-        - end_time: 2025-07-29 05:20:00
-          id: 42
-          start_time: 2025-07-29 05:10:00
-        - end_time: 2025-07-29 05:30:00
-          id: 41
-          start_time: 2025-07-29 05:20:00
-      start_time: 2025-07-29 05:00:00
-      title: Knowledge Acquisition/Use and Behaviour Modeling (2)
-      chair: John Doe
-      location: Main Room
-    - end_time: 2025-07-29 06:00:00
-      start_time: 2025-07-29 05:35:00
-      title: Knowledge Acquisition/Use and Behaviour Modeling (2) live QA
-      chair: John Doe
-      location: Main Room
-    - end_time: 2025-07-29 06:45:00
-      papers:
-        - end_time: 2025-07-29 06:10:00
-          id: 58
-          start_time: 2025-07-29 06:00:00
-        - end_time: 2025-07-29 06:20:00
-          id: 94
-          start_time: 2025-07-29 06:10:00
-        - end_time: 2025-07-29 06:35:00
-          id: 102
-          start_time: 2025-07-29 06:25:00
-        - end_time: 2025-07-29 06:45:00
-          id: 97
-          start_time: 2025-07-29 06:35:00
-      start_time: 2025-07-29 06:00:00
-      title: Semantic and Pragmatics Modeling
-      chair: John Doe
-      location: Main Room
-    - end_time: 2025-07-29 07:10:00
-      start_time: 2025-07-29 06:45:00
-      title: Semantic and Pragmatics Modeling live QA
-      chair: John Doe
-      location: Main Room
-- end_time: 2025-07-29 07:30:00
-  start_time: 2025-07-29 07:10:00
-  title: Break
-- title: Session 2
-  start_time: 2025-07-29 07:30:00
-  end_time: 2025-07-29 08:20:00
-  subsessions:
-    - end_time: 2025-07-29 08:00:00
-      papers:
-        - end_time: 2025-07-29 07:40:00
-          id: 43
-          start_time: 2025-07-29 07:30:00
-        - end_time: 2025-07-29 07:50:00
-          id: 24
-          start_time: 2025-07-29 07:40:00
-        - end_time: 2025-07-29 08:00:00
-          id: 11
-          start_time: 2025-07-29 07:50:00
-      start_time: 2025-07-29 07:30:00
-      title: Modeling Convergence
-      chair: John Doe
-      location: Main Room
-    - end_time: 2025-07-29 08:20:00
-      start_time: 2025-07-29 08:00:00
-      title: Modeling Convergence live QA
-      chair: John Doe
-      location: Main Room
-- end_time: 2025-07-29 08:45:00
-  start_time: 2025-07-29 08:20:00
-  title: Break
-- end_time: 2025-07-29 09:30:00
-  start_time: 2025-07-29 08:45:00
-  title: Sponsor Booth
-- end_time: 2025-07-29 10:15:00
-  start_time: 2025-07-29 09:30:00
-  title: Breakout Discussion Sessions
-- end_time: 2025-07-29 10:45:00
-  start_time: 2025-07-29 10:15:00
-  title: Break
-- title: Session 3
-  start_time: 2025-07-29 10:45:00
-  end_time: 2025-07-29 11:50:00
-  subsessions:
-    - end_time: 2025-07-29 11:25:00
-      papers:
-        - end_time: 2025-07-29 10:55:00
-          id: 4
-          start_time: 2025-07-29 10:45:00
-        - end_time: 2025-07-29 11:15:00
-          id: 79
-          start_time: 2025-07-29 11:05:00
-        - end_time: 2025-07-29 11:25:00
-          id: 60
-          start_time: 2025-07-29 11:15:00
-      start_time: 2025-07-29 10:45:00
-      title: Evaluation + Corpora (1)
-    - end_time: 2025-07-29 11:50:00
-      start_time: 2025-07-29 11:25:00
-      title: Evaluation + Corpora (1) live QA
-- end_time: 2025-07-29 12:30:00
-  start_time: 2025-07-29 11:50:00
-  title: Break
-- title: Session 4
-  start_time: 2025-07-29 12:30:00
-  end_time: 2025-07-29 16:30:00
-  subsessions:
-    - end_time: 2025-07-29 13:00:00
-      papers:
-        - end_time: 2025-07-29 12:45:00
-          id: 7
-          start_time: 2025-07-29 12:30:00
-        - end_time: 2025-07-29 13:00:00
-          id: 100
-          start_time: 2025-07-29 12:45:00
-      start_time: 2025-07-29 12:30:00
-      title: Demo (3) pre-recorded presentations + live QA
-      chair: John Doe
-      location: Main Room
-    - end_time: 2025-07-29 16:30:00
-      start_time: 2025-07-29 13:00:00
-      title: Breakout Discussion Sessions
-      chair: John Doe
-      location: Main Room
-- end_time: 2025-07-29 17:00:00
-  start_time: 2025-07-29 16:30:00
-  title: Break
-- title: Session 5
-  start_time: 2025-07-29 18:35:00
-  end_time: 2025-07-29 19:40:00
-  subsessions:
-    - end_time: 2025-07-29 19:15:00
-      papers:
-        - end_time: 2025-07-29 18:45:00
-          id: 2
-          start_time: 2025-07-29 18:35:00
-        - end_time: 2025-07-29 18:55:00
-          id: 38
-          start_time: 2025-07-29 18:45:00
-        - end_time: 2025-07-29 19:05:00
-          id: 83
-          start_time: 2025-07-29 18:55:00
-        - end_time: 2025-07-29 19:15:00
-          id: 87
-          start_time: 2025-07-29 19:05:00
-      start_time: 2025-07-29 18:35:00
-      title: Generation + Task-Oriented Dialogues (2)
-      chair: John Doe
-      location: Main Room
-    - end_time: 2025-07-29 19:40:00
-      start_time: 2025-07-29 19:15:00
-      title: Generation + Task-Oriented Dialogues (2) live QA
-      chair: John Doe
-      location: Main Room
-- title: Sessions 1
-  end_time: 2020-07-03 07:10:00
-  subsessions:
-    - end_time: 2020-07-03 06:05:00
-      chair: John Doe
-      location: Main Room
-      papers:
-        - end_time: 2020-07-03 05:40:00
-          id: 8
-          start_time: 2020-07-03 05:30:00
-        - end_time: 2020-07-03 05:50:00
-          id: 9
-          start_time: 2020-07-03 05:40:00
-        - end_time: 2020-07-03 06:05:00
-          id: 92
-          start_time: 2020-07-03 05:55:00
-      start_time: 2020-07-03 05:30:00
-      title: Evaluation + Corpora (2)
-    - end_time: 2020-07-03 06:30:00
-      start_time: 2020-07-03 06:05:00
-      title: Evaluation + Corpora (2) live QA
-      chair: John Doe
-      location: Main Room
-    - end_time: 2020-07-03 06:55:00
-      papers:
-        - end_time: 2020-07-03 06:40:00
-          id: 16
-          start_time: 2020-07-03 06:30:00
-        - end_time: 2020-07-03 06:55:00
-          id: 25
-          start_time: 2020-07-03 06:45:00
-      start_time: 2020-07-03 06:30:00
-      title: Dialogue Policy
-      chair: John Doe
-      location: Main Room
-    - end_time: 2020-07-03 07:10:00
-      start_time: 2020-07-03 06:55:00
-      title: Dialogue Policy live QA
-      chair: John Doe
-      location: Main Room
-- end_time: 2020-07-03 07:30:00
-  start_time: 2020-07-03 07:10:00
-  title: Break
-- end_time: 2020-07-03 09:45:00
-  start_time: 2020-07-03 08:45:00
-  title: Business Meeting, Awards, Closing (live)
+    - end_time: 2025-07-30 10:30:00
+      start_time: 2025-07-30 09:00:00
+      title: "BOF TBA"
+      location: TBA
+- end_time: 2025-07-30 11:00:00
+  start_time: 2025-07-30 10:30:00
+  title: AM Coffee Break
+  location: Foyers & Hall X5
+- end_time: 2025-07-30 12:30:00
+  start_time: 2025-07-30 11:00:00
+  title: "Session 12: Virtual Presentations"
+  location: Underline
+- end_time: 2025-07-30 12:30:00
+  start_time: 2025-07-30 11:00:00
+  title: "Session 12: In Person Posters (Main)"
+  location: Level 0 Exhibit Halls X4 and X5
+- end_time: 2025-07-30 12:30:00
+  start_time: 2025-07-30 11:00:00
+  title: "Session 12: In Person Posters SRW - Closing & Best Papers"
+  location: Level 1 Hall N.2
+- end_time: 2025-07-30 12:30:00
+  start_time: 2025-07-30 11:00:00
+  title: "Session 12: INDUSTRY Car-Panel / Awards Closing"
+  location: Level 1 Hall L.1 - L.3
+- end_time: 2025-07-30 12:30:00
+  start_time: 2025-07-30 11:00:00
+  title: "BoF TBA"
+  location: TBA
+- end_time: 2025-07-30 14:00:00
+  start_time: 2025-07-30 12:30:00
+  title: Lunch
+- end_time: 2025-07-30 14:30:00
+  start_time: 2025-07-30 14:00:00
+  title: "Session 13: Presidential Address"
+  location: Level 2 Hall A - C
+- end_time: 2025-07-30 14:30:00
+  start_time: 2025-07-30 14:00:00
+  title: "Session 13: Test of Times"
+  location: Level 2 Hall A - C
+- end_time: 2025-07-30 14:30:00
+  start_time: 2025-07-30 14:00:00
+  title: "Session 13: ACL Distinguished Service Awards"
+  location: Level 2 Hall A - C
+- end_time: 2025-07-30 14:30:00
+  start_time: 2025-07-30 14:00:00
+  title: "Session 13: ACL Lifetime Achievement Award"
+  location: Level 2 Hall A - C
+- end_time: 2025-07-30 16:30:00
+  start_time: 2025-07-30 16:00:00
+  title: PM Coffee Break
+  location: Hall 3 Lobby Level 
+- end_time: 2025-07-30 17:30:00
+  start_time: 2025-07-30 16:30:00
+  title: "Session 14: Best Paper Awards"
+  location: Level 2 Hall A - C
+- end_time: 2025-07-30 18:00:00
+  start_time: 2025-07-30 17:30:00
+  title: "Session 15: Closing Session"
+  location: Level 2 Hall A - C
