@@ -11,7 +11,7 @@
       location: Level 2 Hall A - C
     - end_time: 2025-07-28 10:30:00
       start_time: 2025-07-28 09:30:00
-      title: Keynote: Luke Zettlemoyer
+      title: "Keynote: Luke Zettlemoyer"
       chair: TBA
       location: Level 2 Hall A - C
 - end_time: 2025-07-28 11:00:00
@@ -19,10 +19,10 @@
   title: Break
 - end_time: 2025-07-28 12:30:00
   start_time: 2025-07-28 11:00:00
-  title: Session 2: Virtual Presentations
+  title: "Session 2: Virtual Presentations"
 - end_time: 2025-07-28 12:30:00
   start_time: 2025-07-28 11:00:00
-  title: Session 2: In Person Posters (Main)
+  title: "Session 2: In Person Posters (Main)"
   location: Level 0 Exhibit Halls X4 and X5
 - end_time: 2025-07-28 14:00:00
   start_time: 2025-07-28 12:30:00
@@ -106,43 +106,43 @@
   location: Level 2 Hall A - C
 - end_time: 2025-07-28 19:30:00
   start_time: 2025-07-28 18:00:00
-  title: Session 5: Virtual Presentations
+  title: "Session 5: Virtual Presentations"
   location: Underline
 - end_time: 2025-07-28 19:30:00
   start_time: 2025-07-28 18:00:00
-  title: Session 5: In Person Posters (Findings with Reception)
+  title: "Session 5: In Person Posters (Findings with Reception)"
   location: Level 0 Exhibit Halls X4 & X5
 - end_time: 2025-07-29 21:30:00
   start_time: 2025-07-29 08:30:00
   title: Registration
 - end_time: 2025-07-29 10:00:00
   start_time: 2025-07-29 09:00:00
-  title: Session 6: Keynote - Verena Rieser
+  title: "Session 6: Keynote - Verena Rieser"
   location: Level 2 Hall A - C
 - end_time: 2025-07-29 10:30:00
   start_time: 2025-07-29 10:00:00
   title: AM Coffee Break
 - end_time: 2025-07-29 12:00:00
   start_time: 2025-07-29 10:30:00
-  title: Session 7: Virtual Presentations
+  title: "Session 7: Virtual Presentations"
 - end_time: 2025-07-29 12:00:00
   start_time: 2025-07-29 10:30:00
-  title: Session 7: In Person Posters (Main)
+  title: "Session 7: In Person Posters (Main)"
   location: Level 0 Exhibit Halls X4 and X5
 - end_time: 2025-07-29 12:00:00
   start_time: 2025-07-29 10:30:00
-  title: Session 7: In Person Posters (SRW)
+  title: "Session 7: In Person Posters (SRW)"
   location: Level 1 Hall N.2
 - end_time: 2025-07-29 12:00:00
   start_time: 2025-07-29 10:30:00
-  title: Session 7: In Person Posters (IND)
+  title: "Session 7: In Person Posters (IND)"
   location: Level 1 Hall L.1 - L.3
 - end_time: 2025-07-29 13:00:00
   start_time: 2025-07-29 12:00:00
   title: Lunch
 - end_time: 2025-07-29 13:45:00
   start_time: 2025-07-29 13:00:00
-  title: Session 8: Business Meeting
+  title: "Session 8: Business Meeting"
   location: Level 2 Hall B
 - end_time: 2025-07-29 14:00:00
   start_time: 2025-07-29 13:45:00
