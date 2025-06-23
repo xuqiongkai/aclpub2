@@ -16,7 +16,7 @@
   - first_name: Mohammad Taher
     institution: Cardiff University / Tehran Institute for Advanced Studies
     last_name: Pilehvar
-  role: Program Chair
+  role: Program Chairs
 - members:
   - first_name: Benjamin
     institution: University of Vienna
@@ -24,7 +24,7 @@
   - first_name: Dagmar
     institution: University of Vienna
     last_name: Gromann
-  role: Local Chair
+  role: Local Chairs
 - members:
   - first_name: Terra
     institution: University of Vienna
@@ -32,7 +32,7 @@
   - first_name: Christophe
     institution: Université Jean Monnet
     last_name: Gravier
-  role: Workshop Chair
+  role: Workshop Chairs
 - members:
   - first_name: Yuki
     institution: Tokyo Institute of Technology
@@ -43,7 +43,7 @@
   - first_name: Fei
     institution: University of Washington
     last_name: Xia
-  role: Tutorial Chair
+  role: Tutorial Chairs
 - members:
   - first_name: Pushkar
     institution: Google DeepMind / Cambridge
@@ -54,7 +54,7 @@
   - first_name: Tao
     institution: The University of Hong Kong
     last_name: Yu
-  role: Demonstration Chair
+  role: Demonstration Chairs
 - members:
   - first_name: Zhu
     institution: Tsinghua University
@@ -65,7 +65,7 @@
   - first_name: Jin
     institution: Brandeis University
     last_name: Zhao
-  role: Student Research Workshop Chair
+  role: Student Research Workshop Chairs
 - members:
   - first_name: Lea
     institution: University of Melbourne
@@ -76,7 +76,7 @@
   - first_name: Tristan
     institution: University of Manitoba
     last_name: Miller
-  role: Student Research Workshop Chair / Faculty Advisor
+  role: "Student Research Workshop Chair: Faculty Advisors"
 - members:
   - first_name: Pierpaolo
     institution: University of Bari
@@ -87,7 +87,7 @@
   - first_name: Zhenghao
     institution: Northeastern University
     last_name: Liu
-  role: Publication Chair
+  role: Publication Chairs
 - members:
   - first_name: Els
     institution: Ghent University
@@ -95,7 +95,7 @@
   - first_name: Qiongkai
     institution: Macquarie University
     last_name: Xu
-  role: Handbook Chair
+  role: Handbook Chairs
 - members:
   - first_name: Raffaella
     institution: University of Trento
@@ -103,7 +103,7 @@
   - first_name: Thomas
     institution: Meta AI
     last_name: Scialom
-  role: Sponsorship Chair
+  role: Sponsorship Chairs
 - members:
   - first_name: Senja
     institution: Jožef Stefan Institute
@@ -117,7 +117,7 @@
   - first_name: Hwaran
     institution: NAVER
     last_name: Lee
-  role: Diversity and Inclusion Chair
+  role: Diversity and Inclusion Chairs
 - members:
   - first_name: Anette
     institution: Heidelberg University
@@ -128,7 +128,7 @@
   - first_name: Horacio
     institution: Pompeu Fabra University
     last_name: Saggion
-  role: Publicity and Social Media Chair
+  role: Publicity and Social Media Chairs
 - members:
   - first_name: Xudong
     institution: LibrAI / MBZUAI
@@ -136,7 +136,7 @@
   - first_name: Alessandro
     institution: University of Milano-Bicocca
     last_name: Raganato
-  role: Website and Conference App Chair
+  role: Website and Conference App Chairs
 - members:
   - first_name: Karën
     institution: Université de Lorraine / LORIA
@@ -144,7 +144,7 @@
   - first_name: Bjorn
     institution: University of Edinburgh
     last_name: Ross
-  role: Ethics Chair
+  role: Ethics Chairs
 - members:
   - first_name: Pedro Henrique
     institution: University of Vienna
@@ -152,7 +152,7 @@
   - first_name: Eleonora
     institution: University of Bologna
     last_name: Mancini
-  role: Student Volunteer Chair
+  role: Student Volunteer Chairs
 - members:
   - first_name: Niket
     institution: Allen AI
@@ -160,7 +160,7 @@
   - first_name: Lizhen
     institution: Monash University
     last_name: Qu
-  role: Technical Open Review Chair
+  role: Technical Open Review Chairs
 - members:
   - first_name: Manling
     institution: Northwestern University
@@ -171,7 +171,7 @@
   - first_name: Avi
     institution: IBM Research
     last_name: Sil
-  role: Virtual Infrastructure Chair
+  role: Virtual Infrastructure Chairs
 - members:
   - first_name: Sara
     institution: FBK
@@ -179,7 +179,7 @@
   - first_name: Yiquan
     institution: Zhejiang University
     last_name: Wu
-  role: Internal Communication Chair
+  role: Internal Communication Chairs
 - members:
   - first_name: Yunyao
     institution: Adobe
@@ -187,7 +187,7 @@
   - first_name: Georg
     institution: DFKI
     last_name: Rehm
-  role: Industry Track Chair
+  role: Industry Track Chairs
 - members:
   - first_name: Rada
     institution: University of Michighan
@@ -195,7 +195,7 @@
   - first_name: Roi
     institution: Technion - Israel Institute of Technology
     last_name: Reichart
-  role: Best Paper Committee Chair
+  role: Best Paper Committee Chairs
 - members:
   - first_name: Rexhina
     institution: Amazon AGI
@@ -203,7 +203,7 @@
   - first_name: Eleni
     institution: TIB
     last_name: Ilkou
-  role: Visa Chair
+  role: Visa Chairs
 - members:
   - first_name: Chenghua
     institution: University of Manchester
