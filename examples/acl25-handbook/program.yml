@@ -231,15 +231,15 @@
   subsessions:
     - end_time: 2025-07-30 10:30:00
       start_time: 2025-07-30 09:00:00
-      title: Resources and Evaluation 3
+      title: "Panel 1: Generalisation of NLP models"
       location: Level 2 Hall A
     - end_time: 2025-07-30 10:30:00
       start_time: 2025-07-30 09:00:00
-      title: Efficient Methods for NLP 2
+      title: "Panel 2: LLM alignment"
       location: Level 2 Hall B
     - end_time: 2025-07-30 10:30:00
       start_time: 2025-07-30 09:00:00
-      title: Ethics, Bias, and Fairness 2
+      title: "Panel 3: Human-centred NLP"
       location: Level 2 Hall C
     - end_time: 2025-07-30 10:30:00
       start_time: 2025-07-30 09:00:00
@@ -251,11 +251,11 @@
       location: Level 1 M.2
     - end_time: 2025-07-30 10:30:00
       start_time: 2025-07-30 09:00:00
-      title: Computational Social Science and Cultural Analytics 2
+      title: "Panel 4: Interpretability and model analysis"
       location: Level 1 N.1
     - end_time: 2025-07-30 10:30:00
       start_time: 2025-07-30 09:00:00
-      title: "Theme track: Generalisation of NLP models 2"
+      title: "Panel 5: Multilinguality and language diversity"
       location: Level 1 N.2
     - end_time: 2025-07-30 10:30:00
       start_time: 2025-07-30 09:00:00
