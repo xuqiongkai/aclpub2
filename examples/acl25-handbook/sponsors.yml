@@ -1,11 +1,48 @@
+- tier: Destination Partner
+  logos:
+    - MeetingDestinationVienna.png
+- tier: Diamond
+  logos:
+    - citadel.png
+    - apple.png
+    - bloomberg.png
+    - xiaomi.png
+    - linkedIn.png
+    - AntGroup.png
+    - GoogleResearch.png
+    - cohere.png
+    - AlibabaClound.png
+    - meta.png
+- tier: Platinum
+  logos:
+    - amazon.png
+    - ibm.png
+    - megagon.png
+    - toloka.png
+    - baidu.png
+    - snowflake.png
+    - oracle.png
+    - ByteDance.png
+    - huawei.png
+    - tencent.png
 - tier: Gold
   logos:
-    - apple.png
-    - rasa.jpg
+    - ThomsonReuters.png
+    - Chen.png
 - tier: Silver
   logos:
-    - honda.png
-    - toshiba.jpeg
-- tier: In cooperation with
+    - appen.png
+    - adobe.png
+    - nexdata.png
+- tier: Bronze
   logos:
-    - boise.png
+    - translated.png
+    - babelscape.png
+    - nec.png
+    - defined.png
+    - JPMorgan.png
+    - Dataocean.png
+    - NatWest.png
+- tier: Diversity and Inclusion
+  logos:
+    - apple.png
