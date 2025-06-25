@@ -12,14 +12,15 @@
     - end_time: 2025-07-28 10:30:00
       start_time: 2025-07-28 09:30:00
       title: "Keynote: Luke Zettlemoyer"
-      chair: TBA
       location: Level 2 Hall A - C
 - end_time: 2025-07-28 11:00:00
   start_time: 2025-07-28 10:30:00
-  title: Break
+  title: Coffee Break
+  location: Foyers & Hall X5
 - end_time: 2025-07-28 12:30:00
   start_time: 2025-07-28 11:00:00
   title: "Session 2: Virtual Presentations"
+  location: Underline
 - end_time: 2025-07-28 12:30:00
   start_time: 2025-07-28 11:00:00
   title: "Session 2: In Person Posters (Main)"
@@ -34,74 +35,65 @@
     - end_time: 2025-07-28 15:30:00
       start_time: 2025-07-28 14:00:00
       title: Machine Translation
-      chair: TBA
       location: Level 1 1.85
     - end_time: 2025-07-28 15:30:00
       start_time: 2025-07-28 14:00:00
       title: Semantics
-      chair: TBA
       location: Level 1 1.86
     - end_time: 2025-07-28 15:30:00
       start_time: 2025-07-28 14:00:00
       title: Ethics, Bias, and Fairness 1
-      chair: TBA
       location: Level 1 M.2
     - end_time: 2025-07-28 15:30:00
       start_time: 2025-07-28 14:00:00
       title: Generation
-      chair: TBA
       location: Level 1 M.1
     - end_time: 2025-07-28 15:30:00
       start_time: 2025-07-28 14:00:00
       title: Human-centered NLP
-      chair: TBA
       location: Level 1 1.62
     - end_time: 2025-07-28 15:30:00
       start_time: 2025-07-28 14:00:00
       title: Information Retrieval and Text Mining
-      chair: TBA
       location: Level 1 N.1
     - end_time: 2025-07-28 15:30:00
       start_time: 2025-07-28 14:00:00
       title: Linguistic Theories and Cognitive Modeling
-      chair: TBA
       location: Level 1 1.62
     - end_time: 2025-07-28 15:30:00
       start_time: 2025-07-28 14:00:00
       title: Multimodality and Language Grounding 1
-      chair: TBA
       location: Level 2 Hall C
     - end_time: 2025-07-28 15:30:00
       start_time: 2025-07-28 14:00:00
       title: NLP Applications 1
-      chair: TBA
       location: Level 2 Hall B
     - end_time: 2025-07-28 15:30:00
       start_time: 2025-07-28 14:00:00
       title: Resources and Evaluation 1
-      chair: TBA
       location: Level 2 Hall A
     - end_time: 2025-07-28 15:30:00
       start_time: 2025-07-28 14:00:00
       title: "Theme track: Generalisation of NLP models 1"
-      chair: TBA
       location: Level 1 1.15-16
     - end_time: 2025-07-28 15:30:00
       start_time: 2025-07-28 14:00:00
-      title: IND - TBA
-      chair: TBA
+      title: Industry track
       location: Level 1 Hall L.1 - L.3
-- end_time: 2025-07-28 15:30:00
-  start_time: 2025-07-28 14:00:00
-  title: PM Coffee Break
+    - end_time: 2025-07-28 15:30:00
+      start_time: 2025-07-28 14:00:00
+      title: BoF track
+- end_time: 2025-07-28 16:00:00
+  start_time: 2025-07-28 15:30:00
+  title: Coffee Break
+  location: Foyers & Hall X5
 - end_time: 2025-07-28 16:30:00
   start_time: 2025-07-28 16:00:00
   title: "Session 4: CL Dissertation Award"
-  chair: TBA
   location: Level 2 Hall A - C
 - end_time: 2025-07-28 17:30:00
   start_time: 2025-07-28 16:30:00
-  title: Session 4 - Panel
+  title: "Session 4: Panel"
   chair: Eduard Hovy
   location: Level 2 Hall A - C
 - end_time: 2025-07-28 19:30:00
@@ -121,21 +113,23 @@
   location: Level 2 Hall A - C
 - end_time: 2025-07-29 10:30:00
   start_time: 2025-07-29 10:00:00
-  title: AM Coffee Break
+  title: Coffee Break
+  location: Foyers & Hall X5
 - end_time: 2025-07-29 12:00:00
   start_time: 2025-07-29 10:30:00
   title: "Session 7: Virtual Presentations"
+  location: Underline
 - end_time: 2025-07-29 12:00:00
   start_time: 2025-07-29 10:30:00
   title: "Session 7: In Person Posters (Main)"
   location: Level 0 Exhibit Halls X4 and X5
 - end_time: 2025-07-29 12:00:00
   start_time: 2025-07-29 10:30:00
-  title: "Session 7: In Person Posters (SRW)"
+  title: "Session 7: In Person Posters (Student Research Workshop)"
   location: Level 1 Hall N.2
 - end_time: 2025-07-29 12:00:00
   start_time: 2025-07-29 10:30:00
-  title: "Session 7: In Person Posters (IND)"
+  title: "Session 7: In Person Posters (Industry)"
   location: Level 1 Hall L.1 - L.3
 - end_time: 2025-07-29 13:00:00
   start_time: 2025-07-29 12:00:00
@@ -197,11 +191,11 @@
       location: Level 1 1.85
     - end_time: 2025-07-29 15:30:00
       start_time: 2025-07-29 14:00:00
-      title: BoF TBA
-      location: TBA
+      title: BoF
 - end_time: 2025-07-29 16:00:00
   start_time: 2025-07-29 15:30:00
-  title: PM Coffee Break
+  title: Coffee Break
+  location: Foyers & Hall X5
 - end_time: 2025-07-29 17:30:00
   start_time: 2025-07-29 16:00:00
   title: "Session 10: Virtual Presentations"
@@ -212,12 +206,15 @@
   location: Level 0 Exhibit Halls X4 & X5
 - end_time: 2025-07-29 17:30:00
   start_time: 2025-07-29 16:00:00
-  title: "Session 10: In Person Posters (IND: TBA)"
+  title: "Session 10: In Person Posters (Industry track)"
   location: Level 1 Hall N.2
 - end_time: 2025-07-29 17:30:00
   start_time: 2025-07-29 16:00:00
-  title: "Session 10: In Person Posters (SRW: TBA)"
+  title: "Session 10: In Person Posters (Student Research Workshop)"
   location: Level 1 Hall L.1 - L.3
+- end_time: 2025-07-29 17:30:00
+  start_time: 2025-07-29 16:00:00
+  title: BoF
 - end_time: 2025-07-29 22:00:00
   start_time: 2025-07-29 19:00:00
   title: Social Event
@@ -279,15 +276,15 @@
       location: Level 1 1.15 - 1.16
     - end_time: 2025-07-30 10:30:00
       start_time: 2025-07-30 09:00:00
-      title: "IND: TBA"
+      title: Industry track
       location: Level 1 Hall L.1 - L.3
     - end_time: 2025-07-30 10:30:00
       start_time: 2025-07-30 09:00:00
-      title: "BOF TBA"
+      title: BoF
       location: TBA
 - end_time: 2025-07-30 11:00:00
   start_time: 2025-07-30 10:30:00
-  title: AM Coffee Break
+  title: Coffee Break
   location: Foyers & Hall X5
 - end_time: 2025-07-30 12:30:00
   start_time: 2025-07-30 11:00:00
@@ -299,7 +296,7 @@
   location: Level 0 Exhibit Halls X4 and X5
 - end_time: 2025-07-30 12:30:00
   start_time: 2025-07-30 11:00:00
-  title: "Session 12: In Person Posters SRW - Closing & Best Papers"
+  title: "Session 12: Student Research Workshop - Closing & Best Papers"
   location: Level 1 Hall N.2
 - end_time: 2025-07-30 12:30:00
   start_time: 2025-07-30 11:00:00
@@ -307,8 +304,7 @@
   location: Level 1 Hall L.1 - L.3
 - end_time: 2025-07-30 12:30:00
   start_time: 2025-07-30 11:00:00
-  title: "BoF TBA"
-  location: TBA
+  title: BoF
 - end_time: 2025-07-30 14:00:00
   start_time: 2025-07-30 12:30:00
   title: Lunch
@@ -330,7 +326,7 @@
   location: Level 2 Hall A - C
 - end_time: 2025-07-30 16:30:00
   start_time: 2025-07-30 16:00:00
-  title: PM Coffee Break
+  title: Coffee Break
   location: Hall 3 Lobby Level 
 - end_time: 2025-07-30 17:30:00
   start_time: 2025-07-30 16:30:00
