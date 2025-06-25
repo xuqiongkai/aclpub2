@@ -8,22 +8,22 @@
     - end_time: 2025-07-27 12:30:00
       tutorials:
         - end_time: 2025-07-27 12:30:00
-          title: Tutorial 1
+          title: "Tutorial 1: Inverse Reinforcement Learning Meets Large Language Model Alignment"
           start_time: 2025-07-27 09:00:00
           room: Level 2 Hall B
           authors: Mihaela van der Schaar and Hao Sun
         - end_time: 2025-07-27 12:30:00
-          title: Tutorial 2
+          title: "Tutorial 2: Eyetracking and NLP"
           start_time: 2025-07-27 09:00:00
           room: Level 1 Hall M
           authors: David Reich, Omer Shubi, Lena Jäger and Yevgeni Berzak
         - end_time: 2025-07-27 12:30:00
-          title: Tutorial 3
+          title: "Tutorial 3: Uncertainty Quantification for Large Language Models"
           start_time: 2025-07-27 09:00:00
           room: Level 2 Hall C
           authors: Artem Shelmanov, Maxim Panov, Ekaterina Sergeevna Fadeeva, Artem Vazhentsev, Roman Konstantinovich Vashurin and Timothy Baldwin
         - end_time: 2025-07-27 12:30:00
-          title: Tutorial 4
+          title: "Tutorial 4: Human-AI Collaboration: How AIs Augment Human Teammates"
           start_time: 2025-07-27 09:00:00
           room: Level 1 Hall N
           authors: Tongshuang Wu, Diyi Yang, Kyle Lo and Marti A. Hearst
@@ -32,22 +32,22 @@
     - end_time: 2025-07-27 17:30:00
       tutorials:
         - end_time: 2025-07-27 17:30:00
-          title: Tutorial 5
+          title: "Tutorial 5: Navigating Ethical Challenges in NLP: Hands-on strategies for students and researchers"
           start_time: 2025-07-27 14:00:00
           room: Level 1 Hall M
           authors: Luciana Benotti, Fanny Ducel, Karen Fort, Guido Ivetta, Zhijing Jin, Min-Yen Kan, Seunghun Lee, Margot Mieskes, Minzhi Li, and Adriana Pagano
         - end_time: 2025-07-27 17:30:00
-          title: Tutorial 6
+          title: "Tutorial 6: NLP for Counterspeech against Hate and Misinformation"
           start_time: 2025-07-27 14:00:00
           room: Level 1 Hall N
           authors: Daniel Russo, Helena Bonaldi, Yi-Ling Chung, Gavin Abercrombie and Marco Guerini        
         - end_time: 2025-07-27 17:30:00
-          title: Tutorial 7
+          title: "Tutorial 7: Synthetic Data in the Era of Large Language Models"
           start_time: 2025-07-27 14:00:00
           room: Level 2 Hall B
           authors: Vijay Viswanathan, Xiang Yue, Alisa Liu, Yizhong Wang and Graham Neubig
         - end_time: 2025-07-27 17:30:00
-          title: Tutorial 8
+          title: "Tutorial 8: Guardrails and Security for LLMs: Safe, Secure, and Controllable Steering of LLM Applications"
           start_time: 2025-07-27 14:00:00
           room: Level 2 Hall C
           authors: Traian Rebedea, Leon Derczynski, Shaona Ghosh, Makesh Narsimhan Sreedhar, Faeze Brahman, Liwei Jiang, Bo Li, Yulia Tsvetkov, Christopher Parisien and Yejin Choi 
