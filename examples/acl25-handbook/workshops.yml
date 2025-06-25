@@ -1,112 +1,112 @@
 - date: 2025-07-31 00:00:00
   title: "Workshop 1: 6th AfricaNLP Workshop: Multilingual and Multicultural-aware LLMs"
   location: Level 1 1.34
-  file: workshop_1
+  file: workshop1.tex
 - date: 2025-07-31 00:00:00
   title: "Workshop 2: The 12th Workshop on Argument Mining"
   location: Level 2 Hall B
-  file: workshop_2
+  file: workshop2.tex
 - date: 2025-07-31 00:00:00
   title: "Workshop 3: 2nd Workshop on Natural Language Processing meets Climate Change"
   location: Level 2 2.17
-  file: workshop_3
+  file: workshop3.tex
 - date: 2025-07-31 00:00:00
   title: "Workshop 4: 2nd Workshop on Natural Language Processing meets Climate Change"
   location: Level 2 2.31
-  file: workshop_4
+  file: workshop4.tex
 - date: 2025-07-31 00:00:00
   title: "Workshop 5: GEM2 Workshop: Generation, Evaluation & Metrics"
   location: Level 2 Hall C
-  file: workshop_5
+  file: workshop5.tex
 - date: 2025-07-31 00:00:00
   title: "Workshop 6: The 19th Linguistic Annotation Workshop (LAW XIX)"
   location: Level 1 1.15-16
-  file: workshop_6
+  file: workshop6.tex
 - date: 2025-07-31 00:00:00
   title: "Workshop 7: The 4th Workshop on NLP for Positive Impact"
   location: Level 1 Hall N1
-  file: workshop_7
+  file: workshop7.tex
 - date: 2025-07-31 00:00:00
   title: "Workshop 8: REALM: First Workshop for Research on Agent Language Models"
   location: Level 1 1.61-62
-  file: workshop_8
+  file: workshop8.tex
 - date: 2025-07-31 00:00:00
   title: "Workshop 9: SDP 2025: The 5th Workshop on Scholarly Document Processing"
   location: Level 1 1.14
-  file: workshop_9
+  file: workshop9.tex
 - date: 2025-07-31 00:00:00
   title: "Workshop 10: The Third Workshop on Social Influence in Conversations (SICon 2025)"
   location: Level 1 1.31-32
-  file: workshop_10
+  file: workshop10.tex
 - date: 2025-07-31 00:00:00
   title: "Workshop 11: Slavic NLP-2025: The 10th Biennial Workshop on Slavic NLP"
   location: Level 2 2.44
-  file: workshop_11
+  file: workshop11.tex
 - date: 2025-07-31 00:00:00
   title: "Workshop 12: The 4th Table Representation Learning Workshop at ACL 2025"
   location: Level 2 2.15
-  file: workshop_12
+  file: workshop12.tex
 - date: 2025-07-31 & 2025-08-01 00:00:00
   title: "Workshop 13: The Fourth Ukrainian Natural Language Processing Workshop (UNLP 2025)"
   location: Gather
-  file: workshop_13
+  file: workshop13.tex
 - date: 2025-07-31 & 2025-08-01 00:00:00
   title: "Workshop 14: The 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025)"
   location: Level 1 1.85-86
-  file: workshop_14
+  file: workshop14.tex
 - date: 2025-07-31 & 2025-08-01 00:00:00
   title: "Workshop 15: 29th Conference on Computational Natural Language Learning (CoNLL)"
   location: Level 1 Hall M1
-  file: workshop_15
+  file: workshop15.tex
 - date: 2025-07-31 & 2025-08-01 00:00:00
   title: "Workshop 16: The 22nd International Conference on Spoken Language Translation (IWSLT 2025)"
   location: Level 1 Hall N2
-  file: workshop_16
+  file: workshop16.tex
 - date: 2025-07-31 & 2025-08-01 00:00:00
   title: "Workshop 17: The 19th Workshop on Semantic Evaluation (Semeval-2025)"
   location: Level 1 Hall M2
-  file: workshop_17
+  file: workshop17.tex
 - date: 2025-08-01 00:00:00
   title: "Workshop 18: The Second Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE II)"
   location: Level 1 1.34
-  file: workshop_18
+  file: workshop18.tex
 - date: 2025-08-01 00:00:00
   title: "Workshop 19: BioNLP 2025 and Shared Tasks (BioNLP-ST 2025)"
   location: Level 2 2.15
-  file: workshop_19
+  file: workshop19.tex
 - date: 2025-08-01 00:00:00
   title: "Workshop 20: The 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP 2025)"
   location: Level 2 Hall C
-  file: workshop_20
+  file: workshop20.tex
 - date: 2025-08-01 00:00:00
   title: "Workshop 21: The First Workshop on Large Language Model Memorization (L2M2)"
   location: Level 1 1.31-32
-  file: workshop_21
+  file: workshop21.tex
 - date: 2025-08-01 00:00:00
   title: "Workshop 22: First Workshop on LLM Security (LLMSEC)"
   location: Level 2 Hall B
-  file: workshop_22
+  file: workshop22.tex
 - date: 2025-08-01 00:00:00
   title: "Workshop 23: MAGMaR and MM4SG 2025"
   location: Level 2 2.44
-  file: workshop_23
+  file: workshop23.tex
 - date: 2025-08-01 00:00:00
   title: "Workshop 24: FieldMatters–SIGTYP"
   location: Level 1 Hall N1
-  file: workshop_24
+  file: workshop24.tex
 - date: 2025-08-01 00:00:00
   title: "Workshop 25: The 3rd workshop on Towards Knowledgeable Foundation Models"
   location: Level 1 1.14
-  file: workshop_25
+  file: workshop25.tex
 - date: 2025-08-01 00:00:00
   title: "Workshop 26: WikiNLP: Advancing Natural Language Processing for Wikipedia"
   location: Level 2 2.31
-  file: workshop_26
+  file: workshop26.tex
 - date: 2025-08-01 00:00:00
   title: "Workshop 27: The 9th Workshop on Online Abuse and Harms (WOAH 2025)"
   location: Level 2 Hall 2.17
-  file: workshop_27
+  file: workshop27.tex
 - date: 2025-08-01 00:00:00
   title: "Workshop 28: The First Joint Workshop on Large Language Models and Structure Modeling (XLLM) and Leveraging Linguistic Structures to Improve and Understand Language Models"
   location: Level 1 1.61-62
-  file: workshop_28
+  file: workshop28.tex
