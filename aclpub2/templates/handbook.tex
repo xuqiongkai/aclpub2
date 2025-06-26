@@ -351,7 +351,10 @@
 \section{Overview}
 During the days of the workshops, \textbf{Registration} will be held from 08:00.
       \leavevmode\newline \leavevmode\newline
-%%% We do not have workshop days in our meta data, so removed this feature.
+\BLOCK{for date in workshop_days}
+    \large{\textbf{\VAR{program_date(date)}}} \leavevmode\newline
+    \noindent\rule{\textwidth}{0.4pt}
+    \begin{longtable}{p{20mm}p{84mm}p{20mm}}
     \BLOCK{for workshop in workshops}
         \BLOCK{if workshop.date is equalto(date) or workshop.date2 is equalto(date)}
           \small{\VAR{workshop.location}} & \small{\VAR{workshop.title}} & \small{  p.\pageref{w\VAR{workshop.id}}} \\\\
@@ -359,7 +362,7 @@ During the days of the workshops, \textbf{Registration} will be held from 08:00.
     \BLOCK{endfor}
     \end{longtable}
     \vspace{0.3cm}
-
+\BLOCK{endfor}
 \newpage
 
 \BLOCK{for workshop in workshops}
