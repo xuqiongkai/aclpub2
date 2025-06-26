@@ -120,11 +120,17 @@ def load_configs_handbook(root: Path):
         workshop_programs[workshop["id"]] = load_config(
             "workshops/program_" + str(workshop["id"]), root, required=True
         )
+        workshop["file"] = workshop["id"] + ".tex"
+    # for workshop in workshops:
+    #     import pdb;pdb.set_trace()
+    #     workshop_programs[workshop["file"]] = load_config(
+    #         "workshops/program_workshop_1", root, required=True
+    #     )
     workshop_papers = {}
-    for workshop in workshops:
-        workshop_papers[workshop["id"]] = load_config(
-            "workshops/papers_" + str(workshop["id"]), root, required=True
-        )
+    # for workshop in workshops:
+    #     workshop_papers[workshop["id"]] = load_config(
+    #         "workshops/papers_" + str(workshop["id"]), root, required=True
+    #     )
     program_overview = load_config("program_overview", root)
 
     return (

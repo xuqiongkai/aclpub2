@@ -1,2 +1,8 @@
 - title: Introduction
   file: introduction.tex
+- title: General Chair Message
+  file: m_gen_chair.tex
+- title: Local Chair Message
+  file: m_local_co-chair.tex
+- title: Program Chair Message
+  file: m_program_co-chair.tex
