@@ -299,16 +299,7 @@
 %%%%%%%%%%%%
 % Overview %
 %%%%%%%%%%%%
-\section{Main Conference Program (Overview)}
-\BLOCK{for page in program_overview}
-  \begin{flushleft}
-  {\large \textbf{\VAR{page.title}}}
-  \end{flushleft}
-  \noindent\rule{8cm}{0.8pt}
-  \setlength{\parindent}{0pt}
-  \VAR{load_file(root, "program_overview", page.file)}
-  \newpage
-\BLOCK{endfor}
+%%% TODO
 
 
 %%%%%%%%%%%%
@@ -334,31 +325,9 @@
           \BLOCK{for paper_slot in subsession.papers}
             \newline
             \BLOCK{set paper = id_to_paper[paper_slot.id]}
-            \BLOCK{if paper.attributes and paper.attributes.Source}
-              \BLOCK{if "TACL" in paper.attributes.Source}\footnotesize{[TACL]}\BLOCK{endif}
-              \BLOCK{if "CL" == paper.attributes.Source}\footnotesize{[CL]}\BLOCK{endif}
-              \BLOCK{if "DEMO" == paper.attributes.Source}\footnotesize{[DEMO]}\BLOCK{endif}
-            \BLOCK{endif}
-            \textbf{\footnotesize{\VAR{paper.title}}}\newline
-            \BLOCK{if paper.authors}
-              \textit{\footnotesize{\VAR{join_names(", ", paper.authors, " and ")}}}\leavevmode\hfill
-            \BLOCK{endif}
-            \BLOCK{if paper_slot.start_time and paper_slot.end_time}
-              \footnotesize{\VAR{paper_slot.start_time.strftime('%H:%M')}-\VAR{paper_slot.end_time.strftime('%H:%M')}}
-              \BLOCK{if subsession.location}(\VAR{subsession.location})\BLOCK{endif}\leavevmode\newline
-            \BLOCK{endif}
-            \BLOCK{if paper_slot.speaker}
-              \VAR{index_speakers(paper_slot.speaker)}
-              \textit{\footnotesize{Speaker: \VAR{paper_slot.speaker}}}\leavevmode\newline
-            \BLOCK{endif}
-            \BLOCK{if paper.abstract}
-            \BLOCK{if paper.abstract != "PLACEHOLDER"}
-            {\footnotesize{\VAR{paper.abstract}}} \leavevmode\newline
-            \BLOCK{endif}
-            \BLOCK{endif}
-            \BLOCK{if paper_slot.start_time}
-             \hfill
-            \BLOCK{endif}
+            
+            %%% TODO
+            
           \BLOCK{endfor}
           \BLOCK{endif}
       \BLOCK{endfor}
@@ -387,10 +356,7 @@
 \section{Overview}
 During the days of the workshops, \textbf{Registration} will be held from 08:00.
       \leavevmode\newline \leavevmode\newline
-\BLOCK{for date in workshop_days}
-    \large{\textbf{\VAR{program_date(date)}}} \leavevmode\newline
-    \noindent\rule{\textwidth}{0.4pt}
-    \begin{longtable}{p{28mm}p{84mm}p{15mm}}
+%%% We do not have workshop days in our meta data, so removed this feature.
     \BLOCK{for workshop in workshops}
         \BLOCK{if workshop.date is equalto(date) or workshop.date2 is equalto(date)}
           \small{\VAR{workshop.location}} & \small{\VAR{workshop.title}} & \small{  p.\pageref{w\VAR{workshop.id}}} \\\\
@@ -398,71 +364,18 @@ During the days of the workshops, \textbf{Registration} will be held from 08:00.
     \BLOCK{endfor}
     \end{longtable}
     \vspace{0.3cm}
-\BLOCK{endfor}
-\BLOCK{for date in workshop_days2}
-    \large{\textbf{More days} \leavevmode\newline
-    \noindent\rule{\textwidth}{0.4pt}
-    \begin{longtable}{p{28mm}p{84mm}p{15mm}}
-    \BLOCK{for workshop in workshops}
-        \BLOCK{if workshop.date is equalto(date) or workshop.date2 is equalto(date)}
-          \small{\VAR{workshop.location}} & \small{\VAR{workshop.title}} & \small{  p.\pageref{w\VAR{workshop.id}}} \\\\
-        \BLOCK{endif}
-    \BLOCK{endfor}
-    \end{longtable}
-    \vspace{0.5cm}
-\BLOCK{endfor}
-\newpage
 
+\newpage
 
 \BLOCK{for workshop in workshops}
-    \section{\VAR{workshop.title}}
-    \label{w\VAR{workshop.id}}
-    \begin{center}
-        \textbf{Organizers:}\\
-        \VAR{workshop.chair}\\ \leavevmode\newline {\normalsize\url{\VAR{workshop.url}}}
-        \\\large{Venue: \VAR{workshop.location}}\\
-        \large{
-            \textbf{\VAR{program_date(workshop.date)}}
-            \BLOCK{if workshop.date2}
-             \textbf{- \VAR{program_date(workshop.date2)}}
-            \BLOCK{endif}
-        }\\
-
-    \end{center}
-        {\normalsize \VAR{workshop.abstract}} \leavevmode\newline \leavevmode\newline
-    \vspace*{0.1cm}
-    \setheaders{}{}
-
-    \BLOCK{for date, pages in program_workshops[workshop.id]}
-    \vspace*{-0.6cm}
-      \BLOCK{set ns = namespace(first=true)}
-      \BLOCK{for page in pages}
-      \setlength\extrarowheight{-13pt}
-        \begin{longtable}{p{20mm}p{94mm}}
-        \BLOCK{for entry in page}
-          \BLOCK{if entry.type is equalto("header")}
-          \small{\VAR{session_times(entry)}} & \small{\textbf{\emph{\VAR{entry.title}}} \BLOCK{if entry.chair} - Chair: \VAR{entry.chair}\BLOCK{endif}  } \\\\
-          \BLOCK{endif}
-          \BLOCK{if entry.type is equalto("paper")}
-            \BLOCK{for wpa in workshop_papers[workshop.id]}
-              \BLOCK{if wpa.id == entry.paper.id}
-                \BLOCK{if entry.paper.start_time}
-                  \footnotesize{\VAR{entry.paper.start_time.strftime('%H:%M')}-\VAR{entry.paper.end_time.strftime('%H:%M')}}
-                \BLOCK{endif}
-                &
-                \small{\emph{\VAR{wpa.title}}}  \\
-                & \small{\VAR{join_names(", ", wpa.authors, " and ")}}\BLOCK{if wpa.speaker} - Speaker: \VAR{wpa.speaker} \BLOCK{endif} \\\\
-              \BLOCK{endif}
-            \BLOCK{endfor}
-          \BLOCK{endif}
-        \BLOCK{endfor}
-        \end{longtable}
-        \BLOCK{set ns.first = false}
-      \BLOCK{endfor}
-    \BLOCK{endfor}
-    \newpage
+\setheaders{Workshops}{Workshops}
+  \begin{flushleft}
+   \section{\VAR{workshop.title}}
+  \end{flushleft}
+  \vspace*{0.2cm}
+  \VAR{load_file(root, "workshops", workshop.file)}
+  \newpage
 \BLOCK{endfor}
-\newpage
 
 %%%%%%%%%%%
 % Local Guide %
