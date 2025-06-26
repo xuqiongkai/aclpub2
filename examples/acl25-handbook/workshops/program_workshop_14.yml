@@ -1,31 +1,22 @@
-- end_time: 2020-07-01 07:45:00
-  start_time: 2020-07-01 07:30:00
+- end_time: 2025-07-31 07:45:00
+  start_time: 2025-07-31 07:30:00
   title: Opening Remarks
-- end_time: 2020-07-01 09:30:00
-  start_time: 2020-07-01 09:00:00
+- end_time: 2025-07-31 07:45:00
+  start_time: 2025-07-31 07:30:00
   title: Break
 - title: Session 1
-  start_time: 2020-07-01 09:30:00
-  end_time: 2020-07-01 11:30:00
+  start_time: 2025-07-31 09:30:00
+  end_time: 2025-07-31 11:30:00
   subsessions:
-    - end_time: 2020-07-01 10:20:00
+    - end_time: 2025-07-31 10:20:00
       papers:
-        - end_time: 2020-07-01 09:40:00
+        - end_time: 2025-07-31 09:40:00
           title: Paper 1
-          start_time: 2020-07-01 09:30:00
+          start_time: 2025-07-31 09:30:00
           authors: André F. T. Martins, Tsvetomila Mihaylova, Nikita Nangia, and Vlad Niculae
-        - end_time: 2020-07-01 09:50:00
+        - end_time: 2025-07-31 09:50:00
           title: Paper 2
-          start_time: 2020-07-01 09:40:00
+          start_time: 2025-07-31 09:40:00
           authors: André F. T. Martins, Tsvetomila Mihaylova, Nikita Nangia, and Vlad Niculae
-        - end_time: 2020-07-01 10:10:00
-          title: Paper 3
-          start_time: 2020-07-01 10:00:00
-          authors: André F. T. Martins, Tsvetomila Mihaylova, Nikita Nangia, and Vlad Niculae
-        - end_time: 2020-07-01 10:20:00
-          title: Paper 4
-          start_time: 2020-07-01 10:10:00
-          authors: André F. T. Martins, Tsvetomila Mihaylova, Nikita Nangia, and Vlad Niculae
-      start_time: 2020-07-01 09:30:00
+      start_time: 2025-07-31 09:30:00
       title: Generation + Task-Oriented Dialogues (1)
-      chair: John Doe
