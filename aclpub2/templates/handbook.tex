@@ -33,8 +33,8 @@
   paperheight=210mm,
   paperwidth=148mm,
   footskip=.57in,
-  inner=.7in,
-  outer=.45in,
+  inner=.5in,
+  outer=.95in,
   bottom=.92in,
   top=.7in,
   twoside]{geometry}
@@ -380,8 +380,6 @@ During the days of the workshops, \textbf{Registration} will be held from 08:00.
 % Local Guide %
 %%%%%%%%%%%
 \setheaders{Local Guide}{Local Guide}
-        \normalsize
-\chapter{Local Guide}
 \VAR{load_file(root, "local_guide", "local_guide.tex")}
 \newpage
 
@@ -389,7 +387,6 @@ During the days of the workshops, \textbf{Registration} will be held from 08:00.
 % Venue Map %
 %%%%%%%%%%%
 \setheaders{Venue Map}{Venue Map}
-\chapter{Venue Map}
 \VAR{load_file(root, "venue_map", "venue_map.tex")}
 \newpage
 
@@ -419,5 +416,6 @@ During the days of the workshops, \textbf{Registration} will be held from 08:00.
 \noindent
 \setheaders{}{}
 
+\includepdf[pages=-]{\VAR{root}/front_page_handbook/acl25_back.pdf}
 
 \end{document}
