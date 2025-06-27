@@ -16,7 +16,7 @@
 - end_time: 2025-07-28 11:00:00
   start_time: 2025-07-28 10:30:00
   title: Coffee Break
-  location: Foyers & Hall X5
+  location: Foyers \\& Hall X5
 - end_time: 2025-07-28 12:30:00
   start_time: 2025-07-28 11:00:00
   title: "Session 2: Virtual Presentations"
@@ -86,7 +86,7 @@
 - end_time: 2025-07-28 16:00:00
   start_time: 2025-07-28 15:30:00
   title: Coffee Break
-  location: Foyers & Hall X5
+  location: Foyers \\& Hall X5
 - end_time: 2025-07-28 16:30:00
   start_time: 2025-07-28 16:00:00
   title: "Session 4: CL Dissertation Award"
@@ -103,7 +103,7 @@
 - end_time: 2025-07-28 19:30:00
   start_time: 2025-07-28 18:00:00
   title: "Session 5: In Person Posters (Findings with Reception)"
-  location: Level 0 Exhibit Halls X4 & X5
+  location: Level 0 Exhibit Halls X4 \\& X5
 - end_time: 2025-07-29 21:30:00
   start_time: 2025-07-29 08:30:00
   title: Registration
@@ -195,7 +195,7 @@
 - end_time: 2025-07-29 16:00:00
   start_time: 2025-07-29 15:30:00
   title: Coffee Break
-  location: Foyers & Hall X5
+  location: Foyers \\& Hall X5
 - end_time: 2025-07-29 17:30:00
   start_time: 2025-07-29 16:00:00
   title: "Session 10: Virtual Presentations"
@@ -203,7 +203,7 @@
 - end_time: 2025-07-29 17:30:00
   start_time: 2025-07-29 16:00:00
   title: "Session 10: In Person Posters (Main)"
-  location: Level 0 Exhibit Halls X4 & X5
+  location: Level 0 Exhibit Halls X4 \\& X5
 - end_time: 2025-07-29 17:30:00
   start_time: 2025-07-29 16:00:00
   title: "Session 10: In Person Posters (Industry track)"
@@ -285,7 +285,7 @@
 - end_time: 2025-07-30 11:00:00
   start_time: 2025-07-30 10:30:00
   title: Coffee Break
-  location: Foyers & Hall X5
+  location: Foyers \\& Hall X5
 - end_time: 2025-07-30 12:30:00
   start_time: 2025-07-30 11:00:00
   title: "Session 12: Virtual Presentations"
@@ -296,7 +296,7 @@
   location: Level 0 Exhibit Halls X4 and X5
 - end_time: 2025-07-30 12:30:00
   start_time: 2025-07-30 11:00:00
-  title: "Session 12: Student Research Workshop - Closing & Best Papers"
+  title: "Session 12: Student Research Workshop - Closing \\& Best Papers"
   location: Level 1 Hall N.2
 - end_time: 2025-07-30 12:30:00
   start_time: 2025-07-30 11:00:00
