@@ -352,15 +352,27 @@ During the days of the workshops, \textbf{Registration} will be held from 08:00.
       \leavevmode\newline \leavevmode\newline
 \BLOCK{for date in workshop_days}
     \large{\textbf{\VAR{program_date(date)}}} \leavevmode\newline
-    \setlength\extrarowheight{-8pt}
-    \begin{longtable}{p{20mm}p{74mm}p{20mm}}
+    \noindent\rule{\textwidth}{0.4pt}
+    \begin{longtable}{p{28mm}p{84mm}p{15mm}}
     \BLOCK{for workshop in workshops}
         \BLOCK{if workshop.date is equalto(date) or workshop.date2 is equalto(date)}
-          \small{\VAR{workshop.location}} & \small{\VAR{workshop.title}} & \small{  p.\pageref{w\VAR{workshop.id}}} \\\\
+          \small{\VAR{workshop.location}} & \small{\VAR{workshop.title}} & \small{  p.\pageref{\VAR{workshop.id}}} \\\\
         \BLOCK{endif}
     \BLOCK{endfor}
     \end{longtable}
     \vspace{0.3cm}
+\BLOCK{endfor}
+\BLOCK{for date in workshop_days2}
+    \large{\textbf{More days} \leavevmode\newline
+    \noindent\rule{\textwidth}{0.4pt}
+    \begin{longtable}{p{28mm}p{84mm}p{15mm}}
+    \BLOCK{for workshop in workshops}
+        \BLOCK{if workshop.date is equalto(date) or workshop.date2 is equalto(date)}
+          \small{\VAR{workshop.location}} & \small{\VAR{workshop.title}} & \small{  p.\pageref{\VAR{workshop.id}}} \\\\
+        \BLOCK{endif}
+    \BLOCK{endfor}
+    \end{longtable}
+    \vspace{0.5cm}
 \BLOCK{endfor}
 \newpage
 
