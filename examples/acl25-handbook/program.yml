@@ -223,8 +223,8 @@
   start_time: 2025-07-30 08:30:00
   title: Registration
 - title: "Session 11: In Person Orals"
-  start_time: 2025-07-30 10:30:00
-  end_time: 2025-07-30 09:00:00
+  start_time: 2025-07-30 09:00:00
+  end_time: 2025-07-30 10:30:00
   subsessions:
     - end_time: 2025-07-30 10:30:00
       start_time: 2025-07-30 09:00:00
