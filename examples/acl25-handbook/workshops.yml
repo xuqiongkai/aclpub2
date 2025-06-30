@@ -49,43 +49,43 @@
 - date: 2025-07-31 00:00:00
   title: "Workshop 13: The Fourth Ukrainian Natural Language Processing Workshop (UNLP 2025)"
   location: Gather
-  id: workshop_13
+  id: workshop_13_1
 - date: 2025-08-01 00:00:00
   title: "Workshop 13: The Fourth Ukrainian Natural Language Processing Workshop (UNLP 2025)"
   location: Gather
-  id: workshop_13
+  id: workshop_13_2
 - date: 2025-07-31 00:00:00
   title: "Workshop 14: The 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025)"
   location: Level 1 1.85-86
-  id: workshop_14
+  id: workshop_14_1
 - date: 2025-08-01 00:00:00
   title: "Workshop 14: The 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025)"
   location: Level 1 1.85-86
-  id: workshop_14
+  id: workshop_14_2
 - date: 2025-07-31 00:00:00
   title: "Workshop 15: 29th Conference on Computational Natural Language Learning (CoNLL)"
   location: Level 1 Hall M1
-  id: workshop_15
+  id: workshop_15_1
 - date: 2025-08-01 00:00:00
   title: "Workshop 15: 29th Conference on Computational Natural Language Learning (CoNLL)"
   location: Level 1 Hall M1
-  id: workshop_15
+  id: workshop_15_2
 - date: 2025-07-31 00:00:00
   title: "Workshop 16: The 22nd International Conference on Spoken Language Translation (IWSLT 2025)"
   location: Level 1 Hall N2
-  id: workshop_16
+  id: workshop_16_1
 - date: 2025-08-01 00:00:00
   title: "Workshop 16: The 22nd International Conference on Spoken Language Translation (IWSLT 2025)"
   location: Level 1 Hall N2
-  id: workshop_16
+  id: workshop_16_2
 - date: 2025-07-31 00:00:00
   title: "Workshop 17: The 19th Workshop on Semantic Evaluation (Semeval-2025)"
   location: Level 1 Hall M2
-  id: workshop_17
+  id: workshop_17_1
 - date: 2025-08-01 00:00:00
   title: "Workshop 17: The 19th Workshop on Semantic Evaluation (Semeval-2025)"
   location: Level 1 Hall M2
-  id: workshop_17
+  id: workshop_17_2
 - date: 2025-08-01 00:00:00
   title: "Workshop 18: The Second Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE II)"
   location: Level 1 1.34
