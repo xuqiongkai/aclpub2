@@ -289,59 +289,13 @@
 %%%%%%%%%%%
 % Program %
 %%%%%%%%%%%
-\setheaders{Main Conference}{Main Conference}
-\chapter{Main Conference}
 
 %%%%%%%%%%%%
 % Overview %
 %%%%%%%%%%%%
+\setheaders{Main Conference}{Main Conference}
 \VAR{load_file(root, "program_overview", "overview_main.tex")}
 \newpage
-
-%%%%%%%%%%%%
-% Detailed %
-%%%%%%%%%%%%
-\BLOCK{for date, sessions in program}
-  \section{Main Conference: \VAR{program_date(date)}} \leavevmode\newline
-  \setheaders{Main Conference Program (Detailed Program)}{Main Conference Program (Detailed Program)}
-
-  \BLOCK{for session in sessions}
-    \BLOCK{if session.subsessions|length > 0}
-     \leavevmode\newline{\Large{\textbf{\VAR{session.title} - \VAR{session.start_time.strftime('%H:%M')}-\VAR{session.end_time.strftime('%H:%M')}}}}
-      \BLOCK{for subsession in session.subsessions}
-        \BLOCK{if subsession.papers|length > 0}
-          {\subsection{\VAR{subsession.title}}}
-          \VAR{subsession.start_time.strftime('%H:%M')}-\VAR{subsession.end_time.strftime('%H:%M')}
-          \BLOCK{if subsession.location}
-            (\VAR{subsession.location})
-          \BLOCK{endif}
-          \BLOCK{if subsession.chair}\textit{Chair: \VAR{subsession.chair}} \leavevmode\newline\BLOCK{endif}\\
-          \vspace*{-0.05cm}
-          \noindent\rule{4cm}{0.4pt}\\\leavevmode\newline
-          \BLOCK{for paper_slot in subsession.papers}
-            \newline
-            \BLOCK{set paper = id_to_paper[paper_slot.id]}
-            
-            %%% TODO
-            
-          \BLOCK{endfor}
-          \BLOCK{endif}
-      \BLOCK{endfor}
-    \BLOCK{endif}
-
-
-    \BLOCK{if session.subsessions | length < 1}
-      {\Large{\VAR{session.title}}}\leavevmode\newline
-      \VAR{session.start_time.strftime('%H:%M')}-\VAR{session.end_time.strftime('%H:%M')} - \textbf{Auditorium}
-      \BLOCK{if session.location}
-      (\VAR{session.location})
-      \BLOCK{endif}
-      \leavevmode\newline
-    \BLOCK{endif}
-
-  \BLOCK{endfor}
-          \newpage
-\BLOCK{endfor}
 
 
 %%%%%%%%%%%
