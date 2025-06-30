@@ -334,8 +334,10 @@ During the days of the workshops, \textbf{Registration} will be held from 08:00.
 
 \BLOCK{for workshop in workshops}
 \setheaders{Workshops}{Workshops}
+\BLOCK{if workshop.file}
   \VAR{load_file(root, "workshops", workshop.file)}
   \newpage
+\BLOCK{endif}
 \BLOCK{endfor}
 
 %%%%%%%%%%%
