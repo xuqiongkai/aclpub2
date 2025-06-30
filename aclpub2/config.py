@@ -120,7 +120,8 @@ def load_configs_handbook(root: Path):
         workshop_programs[workshop["id"]] = load_config(
             "workshops/program_" + str(workshop["id"]), root, required=True
         )
-        workshop["file"] = workshop["id"] + ".tex"
+        if "file" in workshop:
+            workshop["file"] = workshop["file"] + ".tex"
     # for workshop in workshops:
     #     import pdb;pdb.set_trace()
     #     workshop_programs[workshop["file"]] = load_config(
