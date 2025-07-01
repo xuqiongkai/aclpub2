@@ -135,12 +135,12 @@
   file: workshop_23
 - date: 2025-08-01 00:00:00
   title: "Workshop 24: FieldMatters–SIGTYP"
-  location: Level 1 Hall N1
+  location: Level 1 1.14
   id: workshop_24
   file: workshop_24
 - date: 2025-08-01 00:00:00
   title: "Workshop 25: The 3rd workshop on Towards Knowledgeable Foundation Models"
-  location: Level 1 1.14
+  location:  Level 1 Hall N1
   id: workshop_25
   file: workshop_25
 - date: 2025-08-01 00:00:00
