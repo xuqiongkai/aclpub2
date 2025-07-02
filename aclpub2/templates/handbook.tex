@@ -232,7 +232,16 @@
 \chapter{Keynotes}
 \BLOCK{for talk in invited_talks}
   \VAR{load_file(root, "invited_talks", talk.abstract_file)}
-  \newpage
+\BLOCK{endfor}
+\BLOCK{endif}
+
+Invited Talks %
+%%%%%%%%%%%%
+\setheaders{Panel Discussion}{Panel Discussion}
+\BLOCK{if panels}
+\chapter{Panel Discussion}
+\BLOCK{for panel in panels}
+  \VAR{load_file(root, "invited_talks", panel.abstract_file)}
 \BLOCK{endfor}
 \BLOCK{endif}
 
@@ -241,10 +250,11 @@
 %%%%%%%%%%%
 \setheaders{Tutorials}{Tutorials}
 \BLOCK{for date, pages in tutorial_program}
-\chapter{Tutorials: \VAR{program_date(date)}}
-\setheaders{Tutorials}{\VAR{program_date(date)}}
+\chapter{Tutorials}
+\setheaders{Tutorials}{Tutorials}
 \begin{flushleft}
    \section{Overview}
+   \textbf{\large{\VAR{program_date(date)}}}
 \end{flushleft}
 \vspace*{-0.6cm}
   \BLOCK{set ns = namespace(first=true)}
