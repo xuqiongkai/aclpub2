@@ -133,6 +133,7 @@ def load_configs_handbook(root: Path):
     #         "workshops/papers_" + str(workshop["id"]), root, required=True
     #     )
     program_overview = load_config("program_overview", root)
+    orals = load_config("program_oral", root)
 
     return (
         conference,
@@ -151,6 +152,7 @@ def load_configs_handbook(root: Path):
         workshops,
         workshop_programs,
         workshop_papers,
+        orals
     )
 
 

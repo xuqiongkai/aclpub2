@@ -307,6 +307,22 @@ Invited Talks %
 \VAR{load_file(root, "program_overview", "overview_main.tex")}
 \newpage
 
+%%%%%%%%%%%%
+% Oral Presentation %
+%%%%%%%%%%%%
+\setheaders{Oral Presentation}{Oral Presentation}
+\chapter{Oral Presentation}
+
+\BLOCK{for session in orals}
+\section*{{\VAR{session.name} (\VAR{session.time})}}
+  \BLOCK{for paper in session.papers}
+    {\VAR{paper.time}}\\
+    \textbf{\VAR{paper.title}}\\
+    \textit{\VAR{paper.author}}\\
+    {\VAR{paper.abstract}}\\
+    \\
+  \BLOCK{endfor}
+\BLOCK{endfor}
 
 %%%%%%%%%%%
 % Workshops %
