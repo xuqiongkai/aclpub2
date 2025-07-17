@@ -244,7 +244,8 @@ def generate_handbook(path: str, overwrite: bool):
         workshops,
         workshop_programs,
         workshop_papers,
-        orals
+        orals,
+        posters
     ) = load_configs_handbook(root)
     program_workshops = {}
     for id, workshop_program in workshop_programs.items():
@@ -286,6 +287,7 @@ def generate_handbook(path: str, overwrite: bool):
         workshop_papers=workshop_papers,
         build_dir=str(build_dir),
         orals=orals,
+        posters=posters
     )
     tex_file = Path(build_dir, "handbook.tex")
     with open(tex_file, "w+") as f:
