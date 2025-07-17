@@ -324,6 +324,60 @@ Invited Talks %
   \BLOCK{endfor}
 \BLOCK{endfor}
 
+
+%%%%%%%%%%%%
+% Poster Presentation %
+%%%%%%%%%%%%
+\setheaders{Poster Presentation}{Poster Presentation}
+\chapter{Poster Presentation}
+
+\BLOCK{for session in TODO}
+\section{{\VAR{session.name} (\VAR{session.time}, \VAR{session.location})}}
+  \BLOCK{for paper in session.papers}
+    {\VAR{paper.time}}\\
+    \textbf{\VAR{paper.title}}\\
+    \textit{\VAR{paper.author}}\\
+    {\VAR{paper.abstract}}\\
+    \\
+  \BLOCK{endfor}
+\BLOCK{endfor}
+
+
+%%%%%%%%%%%%
+% Virtual Presentation %
+%%%%%%%%%%%%
+\setheaders{Virtual Presentation}{Virtual Presentation}
+\chapter{Virtual Presentation}
+
+\BLOCK{for session in oral}
+\section{{\VAR{session.name} (\VAR{session.time}, \VAR{session.location})}}
+  \BLOCK{for paper in session.papers}
+    {\VAR{paper.time}}\\
+    \textbf{\VAR{paper.title}}\\
+    \textit{\VAR{paper.author}}\\
+    {\VAR{paper.abstract}}\\
+    \\
+  \BLOCK{endfor}
+\BLOCK{endfor}
+
+
+%%%%%%%%%%%%
+% Insdustry Presentation %
+%%%%%%%%%%%%
+\setheaders{Industry Session}{Industry Session}
+\chapter{Industry Session}
+
+\BLOCK{for session in oral}
+\section{{\VAR{session.name} (\VAR{session.time}, \VAR{session.location})}}
+  \BLOCK{for paper in session.papers}
+    {\VAR{paper.time}}\\
+    \textbf{\VAR{paper.title}}\\
+    \textit{\VAR{paper.author}}\\
+    {\VAR{paper.abstract}}\\
+    \\
+  \BLOCK{endfor}
+\BLOCK{endfor}
+
 %%%%%%%%%%%
 % Workshops %
 %%%%%%%%%%%
