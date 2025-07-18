@@ -315,7 +315,7 @@
 \chapter{Oral Presentation}
 
 \BLOCK{for session in orals}
-\section{{\VAR{session.name} (\VAR{session.time}, \VAR{session.location})}}
+\section{{\VAR{session.name} (\VAR{session.date}, \VAR{session.time}, \VAR{session.location})}}
   \BLOCK{for paper in session.papers}
     {\VAR{paper.time}}\\
     \textbf{\VAR{paper.title}}\\
@@ -333,7 +333,7 @@
 \chapter{Poster Presentation}
 
 \BLOCK{for session in TODO}
-\section{{\VAR{session.name} (\VAR{session.time}, \VAR{session.location})}}
+\section{{\VAR{session.name} (\VAR{session.date}, \VAR{session.time}, \VAR{session.location})}}
   \BLOCK{for paper in session.papers}
     {\VAR{paper.time}}\\
     \textbf{\VAR{paper.title}}\\
@@ -351,7 +351,7 @@
 \chapter{Virtual Presentation}
 
 \BLOCK{for session in oral}
-\section{{\VAR{session.name} (\VAR{session.time}, \VAR{session.location})}}
+\section{{\VAR{session.name} (\VAR{session.date}, \VAR{session.time}, \VAR{session.location})}}
   \BLOCK{for paper in session.papers}
     {\VAR{paper.time}}\\
     \textbf{\VAR{paper.title}}\\
@@ -369,7 +369,7 @@
 \chapter{Industry Session}
 
 \BLOCK{for session in oral}
-\section{{\VAR{session.name} (\VAR{session.time}, \VAR{session.location})}}
+\section{{\VAR{session.name} (\VAR{session.date}, \VAR{session.time}, \VAR{session.location})}}
   \BLOCK{for paper in session.papers}
     {\VAR{paper.time}}\\
     \textbf{\VAR{paper.title}}\\
