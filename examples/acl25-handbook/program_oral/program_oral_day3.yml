@@ -1,5 +1,5 @@
 - name: "Session 11: Computational Social Science and Cultural Analytics"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Hall C"
   papers:
@@ -12,7 +12,7 @@
     time: "09:44 - 09:55"
     abstract: "Naitian Zhou, David Bamman, Isaac L. Bleaman"
 - name: "Session 11: Efficient/Low-Resource Methods for NLP"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Hall A"
   papers:
@@ -21,7 +21,7 @@
     time: "09:44 - 09:55"
     abstract: "Gayathri Saranathan, Cong Xu, Mahammad Parwez Alam, Tarun Kumar, Martin Foltin, Soon Yee Wong, Suparna Bhattacharya"
 - name: "Session 11: Efficient/Low-Resource Methods for NLP"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Room 1.62"
   papers:
@@ -58,7 +58,7 @@
     time: "10:17 - 10:28"
     abstract: "Eldar Kurtic, Alexandre Noll Marques, Shubhra Pandit, Mark Kurtz, Dan Alistarh"
 - name: "Session 11: Ethics, Bias, and Fairness"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Hall C"
   papers:
@@ -67,7 +67,7 @@
     time: "09:00 - 09:11"
     abstract: "Angelina Wang, Michelle Phan, Daniel E. Ho, Sanmi Koyejo"
 - name: "Session 11: Human-Centered NLP"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Hall B"
   papers:
@@ -76,7 +76,7 @@
     time: "09:44 - 09:55"
     abstract: "Sooyung Choi, Jaehyeok Lee, Xiaoyuan Yi, Jing Yao, Xing Xie, JinYeong Bak"
 - name: "Session 11: Human-Centered NLP"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Hall C"
   papers:
@@ -85,7 +85,7 @@
     time: "09:33 - 09:44"
     abstract: "Shivani Kumar, David Jurgens"
 - name: "Session 11: Interpretability and Analysis of Models for NLP"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Hall N.1"
   papers:
@@ -110,7 +110,7 @@
     time: "09:44 - 09:55"
     abstract: "Taiga Someya, Anej Svete, Brian DuSell, Timothy J. O'Donnell, Mario Giulianelli, Ryan Cotterell"
 - name: "Session 11: Interpretability and Analysis of Models for NLP"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Room 1.85"
   papers:
@@ -147,7 +147,7 @@
     time: "10:17 - 10:28"
     abstract: "Selim Jerad, Anej Svete, Jiaoda Li, Ryan Cotterell"
 - name: "Session 11: Language Modeling"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Hall B"
   papers:
@@ -164,7 +164,7 @@
     time: "09:33 - 09:44"
     abstract: "Jiaming Ji, Kaile Wang, Tianyi Qiu, Boyuan Chen, Jiayi Zhou, Changye Li, Hantao Lou, Josef Dai, Yunhuai Liu, Yaodong Yang"
 - name: "Session 11: Language Modeling"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Room 1.15-16"
   papers:
@@ -197,7 +197,7 @@
     time: "10:06 - 10:17"
     abstract: "Philip Whittington, Gregor Bachmann, Tiago Pimentel"
 - name: "Session 11: Machine Learning for NLP"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Room 1.61"
   papers:
@@ -234,7 +234,7 @@
     time: "10:17 - 10:28"
     abstract: "Daichi Hayakawa, Issei Sato"
 - name: "Session 11: Multilinguality and Language Diversity"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Hall B"
   papers:
@@ -243,7 +243,7 @@
     time: "09:22 - 09:33"
     abstract: "Weixiang Zhao, Yulin Hu, Yang Deng, Tongtong Wu, Wenxuan Zhang, Jiahe Guo, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu"
 - name: "Session 11: Multilinguality and Language Diversity"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Hall N.2"
   papers:
@@ -268,7 +268,7 @@
     time: "09:44 - 09:55"
     abstract: "Nedjma Ousidhoum, Meriem Beloucif, Saif M. Mohammad"
 - name: "Session 11: Multimodality and Language Grounding to Vision, Robotics and Beyond"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Hall M.2"
   papers:
@@ -305,7 +305,7 @@
     time: "10:17 - 10:28"
     abstract: "Zahra Bayramli, Ayhan Suleymanzade, Na Min An, Huzama Ahmad, Eunsu Kim, Junyeong Park, James Thorne, Alice Oh"
 - name: "Session 11: NLP Applications"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Hall M.1"
   papers:
@@ -342,7 +342,7 @@
     time: "10:17 - 10:28"
     abstract: "Doyoun Kim, Suin Kim, Yohan Jo"
 - name: "Session 11: Question Answering"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Room 1.86"
   papers:
@@ -379,7 +379,7 @@
     time: "10:17 - 10:28"
     abstract: "Baining Zhao, Jianjie Fang, Zichao Dai, Ziyou Wang, Jirong Zha, Weichen Zhang, Chen Gao, Yue Wang, Jinqiang Cui, Xinlei Chen, Yong Li"
 - name: "Session 11: Resources and Evaluation"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Hall C"
   papers:
@@ -388,7 +388,7 @@
     time: "09:22 - 09:33"
     abstract: "Fakhraddin Alwajih, Abdellah EL MEKKI, Samar Mohamed Magdy, AbdelRahim A. Elmadany, OMER NACAR, El Moatez Billah Nagoudi, Reem Abdel-Salam, Hanin atwany, Youssef Nafea, Abdulfattah Mohammed Yahya, Rahaf Alhamouri, Hamzah A. Alsayadi, Hiba Zayed, Sara Shatnawi, Serry Sibaee, Yasir ECH-CHAMMAKHY, Walid Al-Dhabyani, Marwa Mohamed Ali, Imen JARRAYA, Ahmed Oumar El-Shangiti, Aisha Alraeesi, Mohammed Anwar AL-Ghrawi, Abdulrahman S. Al-Batati, Elgizouli Mohamed, Noha Taha Elgindi, Muhammed Saeed, Houdaifa Atou, Issam AIT YAHIA, Abdelhak Bouayad, Mohammed Machrouh, AMAL MAKOUAR, Dania Alkawi, Mukhtar Mohamed, Safaa Taher Abdelfadil, Amine Ziad Ounnoughene, Anfel ROUABHIA, Rwaa Assi, Ahmed Sorkatti, Mohamedou cheikh tourad, Anis Koubaa, Ismail Berrada, Mustafa Jarrar, Shady Shehata, Muhammad Abdul-Mageed"
 - name: "Session 11: Special Theme: Generalization of NLP Models"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Hall A"
   papers:
@@ -409,7 +409,7 @@
     time: "09:33 - 09:44"
     abstract: "Patrick Queiroz Da Silva, Hari Sethuraman, Dheeraj Rajagopal, Hannaneh Hajishirzi, Sachin Kumar"
 - name: "Session 11: TACL Journal"
-  date: "Monday 30 July"
+  date: "Wednesday 30 July"
   time: "09:00-10:30"
   location: "Room 1.15-16"
   papers:
