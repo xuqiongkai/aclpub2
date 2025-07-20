@@ -1,5 +1,5 @@
 - name: "Session 7: Industry"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "10:30-12:00"
   location: "Hall L"
   papers:
@@ -20,7 +20,7 @@
     time: "11:40 - 11:50"
     abstract: "The integration of generative artificial intelligence into educational applications has enhanced personalized and interactive learning experiences, and it shows strong potential to promote young learners language acquisition. However, it is still challenging to ensure consistent and robust performance across different languages and cultural contexts, and kids-friendly design requires simplified instructions, engaging interactions, and age-appropriate scaffolding to maintain motivation and optimize learning outcomes. In this work, we introduce SingaKids, a dialogic tutor designed to facilitate language learning through picture description tasks. Our system integrates dense image captioning, multilingual dialogic interaction, speech understanding, and engaging speech generation to create an immersive learning environment in four languages: English, Mandarin, Malay, and Tamil. We further improve the system through multilingual pre-training, task-specific tuning, and scaffolding optimization. Empirical studies with elementary school students demonstrate that SingaKids provides effective dialogic teaching, benefiting learners at different performance levels."
 - name: "Session 9: CL Journal"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "14:00-15:30"
   location: "Room 1.62"
   papers:
@@ -29,7 +29,7 @@
     time: "15:17 - 15:28"
     abstract: "Large Language Models (LLMs) are increasingly used in everyday life and research. One of the most common use cases is conversational interactions, enabled by the language generation capabilities of LLMs. Just as between two humans, a conversation between an LLM-powered entity and a human depends on the personality of the conversants. However, measuring the personality of a given LLM is currently a challenge. This article introduces the Language Model Linguistic Personality Assessment (LMLPA), a system designed to evaluate the linguistic personalities of LLMs. Our system helps to understand LLMs' language generation capabilities by quantitatively assessing the distinct personality traits reflected in their linguistic outputs. Unlike traditional human-centric psychometrics, the LMLPA adapts a personality assessment questionnaire, specifically the Big Five Inventory, to align with the operational capabilities of LLMs, and also incorporates the findings from previous language-based personality measurement literature. To mitigate sensitivity to the order of options, our questionnaire is designed to be open-ended, resulting in textual answers. Thus, the Artificial Intelligence (AI) rater is needed to transform ambiguous personality information from text responses into clear numerical indicators of personality traits. Utilising Principal Component Analysis and reliability validation methods, our findings demonstrate that LLMs possess distinct personality traits that can be effectively quantified by the LMLPA. This research contributes to Human-Centered AI and Computational Linguistics, providing a robust framework for future studies to refine AI personality assessments and expand their applications in multiple areas, including education and manufacturing"
 - name: "Session 9: CL Journal"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "14:00-15:30"
   location: "Room 1.85"
   papers:
@@ -38,7 +38,7 @@
     time: "15:06 - 15:17"
     abstract: "Large-scale deployment of large language models (LLMs) in various applications, such as chatbots and virtual assistants, requires LLMs to be culturally sensitive to the user to ensure inclusivity. Culture has been widely studied in psychology and anthropology, and there has been a recent surge in research on making LLMs more culturally inclusive, going beyond multilinguality and building on findings from psychology and anthropology. In this paper, we survey efforts towards incorporating cultural awareness into text-based and multimodal LLMs. We start by defining cultural awareness in LLMs, taking definitions of culture from the anthropology and psychology literature as a point of departure. We then examine methodologies adopted for creating cross-cultural datasets, strategies for cultural inclusion in downstream tasks, and methodologies that have been used for benchmarking cultural awareness in LLMs. Further, we discuss the ethical implications of cultural alignment, the role of Human-Computer Interaction (HCI) in driving cultural inclusion in LLMs, and the role of cultural alignment in driving social science research. We finally provide pointers to future research based on our findings about gaps in the literature."
 - name: "Session 9: Computational Social Science and Cultural Analytics"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "14:00-15:30"
   location: "Room 1.85"
   papers:
@@ -67,7 +67,7 @@
     time: "14:55 - 15:06"
     abstract: "Alexander Spangher, Michael Lu, Sriya Kalyan, Hyundong Justin Cho, Tenghao Huang, Weiyan Shi, Jonathan May"
 - name: "Session 9: Dialogue and Interactive Systems"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "14:00-15:30"
   location: "Hall N.1"
   papers:
@@ -100,7 +100,7 @@
     time: "15:17 - 15:28"
     abstract: "Junjie Chu, Yugeng Liu, Ziqing Yang, Xinyue Shen, Michael Backes, Yang Zhang"
 - name: "Session 9: Discourse and Pragmatics"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "14:00-15:30"
   location: "Hall N.1"
   papers:
@@ -109,7 +109,7 @@
     time: "14:55 - 15:06"
     abstract: "Rupak Sarkar, Neha Srikanth, Taylor Hudson, Rachel Rudinger, Claire Bonial, Philip Resnik"
 - name: "Session 9: Efficient/Low-Resource Methods for NLP"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "14:00-15:30"
   location: "Hall M.1"
   papers:
@@ -146,7 +146,7 @@
     time: "15:17 - 15:28"
     abstract: "Thomas Vakili, Aron Henriksson, Hercules Dalianis"
 - name: "Session 9: Industry"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "14:00-15:30"
   location: "Hall L"
   papers:
@@ -187,7 +187,7 @@
     time: "15:20 - 15:30"
     abstract: "Automating benefit verification phone calls saves time in healthcare and helps patients receive treatment faster. It is critical to obtain highly accurate information in these phone calls, as it can affect a patient's healthcare journey. Given the noise in phone call transcripts, we have a two-stage system that involves a post-call review phase for potentially noisy fields, where human reviewers manually verify the extracted data—a labor-intensive task. To automate this stage, we introduce Auto Review, which significantly reduces manual effort while maintaining a high bar for accuracy. This system, being highly reliant on call transcripts, suffers a performance bottleneck due to automatic speech recognition (ASR) issues. This problem is further exacerbated by the use of domain-specific jargon in the calls. In this work, we propose a second-stage postprocessing pipeline for accurate information extraction. We improve accuracy by using multiple ASR alternatives and a pseudo-labeling approach that does not require manually corrected transcripts. Experiments with general-purpose large language models and feature-based model pipelines demonstrate substantial improvements in the quality of corrected call transcripts, thereby enhancing the efficiency of Auto Review."
 - name: "Session 9: Information Extraction"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "14:00-15:30"
   location: "Hall N.2"
   papers:
@@ -212,7 +212,7 @@
     time: "15:17 - 15:28"
     abstract: "Naman Ahuja, Fenil Bardoliya, Chitta Baral, Vivek Gupta"
 - name: "Session 9: Interpretability and Analysis of Models for NLP"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "14:00-15:30"
   location: "Hall M.2"
   papers:
@@ -249,7 +249,7 @@
     time: "15:17 - 15:28"
     abstract: "Lucas Monteiro Paes, Dennis Wei, Hyo Jin Do, Hendrik Strobelt, Ronny Luss, Amit Dhurandhar, Manish Nagireddy, Karthikeyan Natesan Ramamurthy, Prasanna Sattigeri, Werner Geyer, Soumya Ghosh"
 - name: "Session 9: Language Modeling"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "14:00-15:30"
   location: "Hall C"
   papers:
@@ -286,7 +286,7 @@
     time: "15:17 - 15:28"
     abstract: "Siming Huang, Tianhao Cheng, Jason Klein Liu, Weidi Xu, JIARAN HAO, Liuyihan Song, Yang Xu, Jian Yang, Jiaheng Liu, Chenchen Zhang, Linzheng Chai, Ruifeng Yuan, Xianzhen Luo, Qiufeng Wang, YuanTao Fan, Qingfu Zhu, Zhaoxiang Zhang, Yang Gao, Jie Fu, Qian Liu, Houyi Li, Ge Zhang, Yuan Qi, Xu Yinghui, Wei Chu, Zili Wang"
 - name: "Session 9: Multilinguality and Language Diversity"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "14:00-15:30"
   location: "Room 1.15-16"
   papers:
@@ -323,7 +323,7 @@
     time: "15:17 - 15:28"
     abstract: "Zichuan Fu, Xian Wu, Yejing Wang, Wanyu Wang, Shanshan Ye, Hongzhi Yin, Yi Chang, Yefeng Zheng, Xiangyu Zhao"
 - name: "Session 9: Phonology, Morphology, and Word Segmentation AND Syntax: Tagging, Chunking and Parsing"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "14:00-15:30"
   location: "Room 1.86"
   papers:
@@ -360,7 +360,7 @@
     time: "15:17 - 15:28"
     abstract: "Atharva Naik, Darsh Agrawal, Hong Sng, Clayton Marr, Kexun Zhang, Nathaniel Romney Robinson, Kalvin Chang, Rebecca Byrnes, Aravind Mysore, Carolyn Rose, David R Mortensen"
 - name: "Session 9: Resources and Evaluation"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "14:00-15:30"
   location: "Hall B"
   papers:
@@ -389,7 +389,7 @@
     time: "14:55 - 15:06"
     abstract: ""
 - name: "Session 9: Sentiment Analysis, Stylistic Analysis, and Argument Mining"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "14:00-15:30"
   location: "Room 1.62"
   papers:
@@ -422,7 +422,7 @@
     time: "15:06 - 15:17"
     abstract: "Anneliese Brei, Katharine Henry, Abhisheik Sharma, Shashank Srivastava, Snigdha Chaturvedi"
 - name: "Session 9: Speech recognition, text-to-speech and spoken language understanding"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "14:00-15:30"
   location: "Room 1.61"
   papers:
@@ -459,7 +459,7 @@
     time: "15:17 - 15:28"
     abstract: "Wenrui Liu, Zhifang Guo, Jin Xu, Yuanjun Lv, Yunfei Chu, Zemin Liu, Junyang Lin"
 - name: "Session 9: Summarization"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "14:00-15:30"
   location: "Hall N.2"
   papers:
@@ -476,7 +476,7 @@
     time: "14:55 - 15:06"
     abstract: "Priyanka Kargupta, Ishika Agarwal, Tal August, Jiawei Han"
 - name: "Session 9: TACL Journal"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "14:00-15:30"
   location: "Hall B"
   papers:
@@ -493,7 +493,7 @@
     time: "15:17 - 15:28"
     abstract: "Language model users often issue queries that lack specification, where the context under which a query was issued---such as the user's identity, the query's intent, and the criteria for a response to be useful---is not explicit. For instance, a good response to a subjective query like “What book should I read next?” would depend on the user’s preferences, and a good response to an open-ended query like “How do antibiotics work against bacteria?” would depend on the user's expertise. This makes evaluation of responses to such queries an ill-posed task, as evaluators must make uninformed judgements about the quality of a response. To remedy this, we present contextualized evaluations, a protocol that synthetically constructs context surrounding an underspecified query and provides it during evaluation. We find that the presence of context can 1) change conclusions drawn from evaluation, even flipping win rates between model pairs, 2) nudge evaluators to make fewer judgments based on surface-level criteria of responses, like style, and 3) provide new insights about model behavior in different contexts. Specifically, we discover an implicit bias towards WEIRD contexts in default responses and find that models are not equally sensitive to following different contexts."
 - name: "Session 9: TACL Journal"
-  date: "Monday 29 July"
+  date: "Tuesday 29 July"
   time: "14:00-15:30"
   location: "Room 1.85"
   papers:
