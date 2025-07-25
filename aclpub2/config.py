@@ -133,9 +133,9 @@ def load_configs_handbook(root: Path):
     #         "workshops/papers_" + str(workshop["id"]), root, required=True
     #     )
     program_overview = load_config("program_overview", root)
-    orals = load_config("program_oral_location", root)
-    posters = load_config("program_posters", root)
-
+    orals = [load_config("program_oral/program_oral_day1", root), load_config("program_oral/program_oral_day2", root), load_config("program_oral/program_oral_day3", root)]
+    posters = [load_config("program_posters/program_posters_day1", root), load_config("program_posters/program_posters_day2", root), load_config("program_posters/program_posters_day3", root)]
+    virtuals = [load_config("program_virtual/program_virtual_day1", root), load_config("program_virtual/program_posters_day2", root), load_config("program_virtual/program_posters_day3", root)]
     return (
         conference,
         papers,
@@ -154,7 +154,8 @@ def load_configs_handbook(root: Path):
         workshop_programs,
         workshop_papers,
         orals,
-        posters
+        posters,
+        virtuals
     )
 
 

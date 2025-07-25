@@ -27,6 +27,16 @@
 \usepackage{pdfpages}
 \usepackage{xltabular}
 
+\usepackage{fancyvrb}
+\usepackage{minted}
+\fvset{
+  breaklines=true,
+  breakanywhere=true,
+  breaksymbol=,
+  breakanywheresymbolpre=,
+  formatcom=\normalfont,
+}
+
 % set paper size and margins; needs to be adapted for A5 ideally, we
 % should have a document class for conference handbooks where A5
 % vs. letter-halved is a class option
@@ -309,73 +319,173 @@
 \newpage
 
 %%%%%%%%%%%%
-% Oral Presentation %
+% Day 1 %
 %%%%%%%%%%%%
-\setheaders{Oral Presentation}{Oral Presentation}
-\chapter{Oral Presentation}
+\setheaders{Day 1: Monday 28 July}{Day 1: Monday 28 July}
+\chapter{Day 1: Monday 28 July}
 
-\BLOCK{for session in orals}
-\section{{\VAR{session.name} (\VAR{session.date}, \VAR{session.time}, \VAR{session.location})}}
+\section{Oral Presentation}
+\BLOCK{for session in orals[0]}
+\subsection*{{\VAR{session.name} (\VAR{session.date}, \VAR{session.time}, \VAR{session.location})}}
   \BLOCK{for paper in session.papers}
-    {\VAR{paper.time}}\\
-    \textbf{\VAR{paper.title}}\\
-    \textit{\VAR{paper.author}}\\
-    {\VAR{paper.abstract}}\\
-    \\
+    {\VAR{paper.time}}
+\begin{Verbatim}
+\VAR{paper.title}
+\end{Verbatim}
+\vspace{-1.5mm}
+\VAR{paper.author}
+\vspace{-1.5mm}
+\begin{Verbatim}
+\VAR{paper.abstract}
+\end{Verbatim}
   \BLOCK{endfor}
 \BLOCK{endfor}
 
-
-%%%%%%%%%%%%
-% Poster Presentation %
-%%%%%%%%%%%%
-\setheaders{Poster Presentation}{Poster Presentation}
-\chapter{Poster Presentation}
-
-\BLOCK{for session in TODO}
-\section{{\VAR{session.name} (\VAR{session.date}, \VAR{session.time}, \VAR{session.location})}}
+\section{Poster Presentation}
+\BLOCK{for session in posters[0]}
+\subsection*{{\VAR{session.name} (\VAR{session.date}, \VAR{session.time}, \VAR{session.location})}}
   \BLOCK{for paper in session.papers}
-    {\VAR{paper.time}}\\
-    \textbf{\VAR{paper.title}}\\
-    \textit{\VAR{paper.author}}\\
-    {\VAR{paper.abstract}}\\
-    \\
+    {\VAR{paper.time}}
+\begin{Verbatim}
+\VAR{paper.title}
+\end{Verbatim}
+\vspace{-1.5mm}
+\VAR{paper.author}
+\vspace{-1.5mm}
+\begin{Verbatim}
+\VAR{paper.abstract}
+\end{Verbatim}
   \BLOCK{endfor}
 \BLOCK{endfor}
 
-
-%%%%%%%%%%%%
-% Virtual Presentation %
-%%%%%%%%%%%%
-\setheaders{Virtual Presentation}{Virtual Presentation}
-\chapter{Virtual Presentation}
-
-\BLOCK{for session in oral}
-\section{{\VAR{session.name} (\VAR{session.date}, \VAR{session.time}, \VAR{session.location})}}
+\section{Virtual Presentation}
+\BLOCK{for session in virtuals[0]}
+\subsection*{{\VAR{session.name} (\VAR{session.date}, \VAR{session.time}, \VAR{session.location})}}
   \BLOCK{for paper in session.papers}
-    {\VAR{paper.time}}\\
-    \textbf{\VAR{paper.title}}\\
-    \textit{\VAR{paper.author}}\\
-    {\VAR{paper.abstract}}\\
-    \\
+    {\VAR{paper.time}}
+\begin{Verbatim}
+\VAR{paper.title}
+\end{Verbatim}
+\vspace{-1.5mm}
+\VAR{paper.author}
+\vspace{-1.5mm}
+\begin{Verbatim}
+\VAR{paper.abstract}
+\end{Verbatim}
   \BLOCK{endfor}
 \BLOCK{endfor}
 
-
 %%%%%%%%%%%%
-% Insdustry Presentation %
+% Day 2 %
 %%%%%%%%%%%%
-\setheaders{Industry Session}{Industry Session}
-\chapter{Industry Session}
+\setheaders{Day 2: Tuesday 29 July}{Day 2: Tuesday 29 July}
+\chapter{Day 2: Tuesday 29 July}
 
-\BLOCK{for session in oral}
-\section{{\VAR{session.name} (\VAR{session.date}, \VAR{session.time}, \VAR{session.location})}}
+\section{Oral Presentation}
+\BLOCK{for session in orals[1]}
+\subsection*{{\VAR{session.name} (\VAR{session.date}, \VAR{session.time}, \VAR{session.location})}}
   \BLOCK{for paper in session.papers}
-    {\VAR{paper.time}}\\
-    \textbf{\VAR{paper.title}}\\
-    \textit{\VAR{paper.author}}\\
-    {\VAR{paper.abstract}}\\
-    \\
+    {\VAR{paper.time}}
+\begin{Verbatim}
+\VAR{paper.title}
+\end{Verbatim}
+\vspace{-1.5mm}
+\VAR{paper.author}
+\vspace{-1.5mm}
+\begin{Verbatim}
+\VAR{paper.abstract}
+\end{Verbatim}
+  \BLOCK{endfor}
+\BLOCK{endfor}
+
+\section{Poster Presentation}
+\BLOCK{for session in posters[1]}
+\subsection*{{\VAR{session.name} (\VAR{session.date}, \VAR{session.time}, \VAR{session.location})}}
+  \BLOCK{for paper in session.papers}
+    {\VAR{paper.time}}
+\begin{Verbatim}
+\VAR{paper.title}
+\end{Verbatim}
+\vspace{-1.5mm}
+\VAR{paper.author}
+\vspace{-1.5mm}
+\begin{Verbatim}
+\VAR{paper.abstract}
+\end{Verbatim}
+  \BLOCK{endfor}
+\BLOCK{endfor}
+
+\section{Virtual Presentation}
+\BLOCK{for session in virtuals[1]}
+\subsection*{{\VAR{session.name} (\VAR{session.date}, \VAR{session.time}, \VAR{session.location})}}
+  \BLOCK{for paper in session.papers}
+    {\VAR{paper.time}}
+\begin{Verbatim}
+\VAR{paper.title}
+\end{Verbatim}
+\vspace{-1.5mm}
+\VAR{paper.author}
+\vspace{-1.5mm}
+\begin{Verbatim}
+\VAR{paper.abstract}
+\end{Verbatim}
+  \BLOCK{endfor}
+\BLOCK{endfor}
+
+%%%%%%%%%%%%
+% Day 3 %
+%%%%%%%%%%%%
+\setheaders{Day 3: Wednesday 30 July}{Day 3: Wednesday 30 July}
+\chapter{Day 3: Wednesday 30 July}
+
+\section{Oral Presentation}
+\BLOCK{for session in orals[2]}
+\subsection*{{\VAR{session.name} (\VAR{session.date}, \VAR{session.time}, \VAR{session.location})}}
+  \BLOCK{for paper in session.papers}
+    {\VAR{paper.time}}
+\begin{Verbatim}
+\VAR{paper.title}
+\end{Verbatim}
+\vspace{-1.5mm}
+\VAR{paper.author}
+\vspace{-1.5mm}
+\begin{Verbatim}
+\VAR{paper.abstract}
+\end{Verbatim}
+  \BLOCK{endfor}
+\BLOCK{endfor}
+
+\section{Poster Presentation}
+\BLOCK{for session in posters[2]}
+\subsection*{{\VAR{session.name} (\VAR{session.date}, \VAR{session.time}, \VAR{session.location})}}
+  \BLOCK{for paper in session.papers}
+    {\VAR{paper.time}}
+\begin{Verbatim}
+\VAR{paper.title}
+\end{Verbatim}
+\vspace{-1.5mm}
+\VAR{paper.author}
+\vspace{-1.5mm}
+\begin{Verbatim}
+\VAR{paper.abstract}
+\end{Verbatim}
+  \BLOCK{endfor}
+\BLOCK{endfor}
+
+\section{Virtual Presentation}
+\BLOCK{for session in virtuals[2]}
+\subsection*{{\VAR{session.name} (\VAR{session.date}, \VAR{session.time}, \VAR{session.location})}}
+  \BLOCK{for paper in session.papers}
+    {\VAR{paper.time}}
+\begin{Verbatim}
+\VAR{paper.title}
+\end{Verbatim}
+\vspace{-1.5mm}
+\VAR{paper.author}
+\vspace{-1.5mm}
+\begin{Verbatim}
+\VAR{paper.abstract}
+\end{Verbatim}
   \BLOCK{endfor}
 \BLOCK{endfor}
 
